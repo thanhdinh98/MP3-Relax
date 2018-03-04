@@ -2,8 +2,8 @@ const moduleFunctions = require(`./mp3_module_functions`)();
 
 const crawler = ()=>{
 
-    const getUrl = (url)=>{
-        moduleFunctions.get_all_songs(url)
+    const getUrl = (url, options)=>{
+        moduleFunctions.get_all_songs(url, options)
         .then(moduleFunctions.get_single_song)
         .catch(moduleFunctions.error);
     }

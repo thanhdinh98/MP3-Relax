@@ -1,15 +1,10 @@
 const request = require(`request`);
 const fs = require(`fs`);
-
+const appVars = require(`./appVars`);
 
 const mp3ModuleFunctions = ()=>{
 
-    const mp3 = `https://mp3.zing.vn/xhr/media/get-source?type=audio&key=`;
-    let music_data = {items:[]};
-    let length = 0;
-    let order = 0;
-
-    function getAllSongs(url){
+    function getAllSongs(url, options){
         return new Promise((resolve, reject)=>{
             request({ 
                 method: 'GET', 
@@ -19,6 +14,8 @@ const mp3ModuleFunctions = ()=>{
                 if(err){
                     reject(err);
                 }else{
+                    appVars.path = options.path;
+                    appVars.name_file = options.name_file;
                     resolve(body);
                 }
             });
@@ -27,9 +24,9 @@ const mp3ModuleFunctions = ()=>{
     
     function getSingleSong(res){
         let body = JSON.parse(res);
-        length = body.data.items.length;
+        appVars.item_length = body.data.items.length;
         for(let i = 0; i < body.data.items.length; i++){
-            request({method: `GET`, uri: mp3 + body.data.items[i].code, gzip: true}, saveSong);
+            request({method: `GET`, uri: appVars.song_url + body.data.items[i].code, gzip: true}, saveSong);
         }
     }
     
@@ -40,7 +37,6 @@ const mp3ModuleFunctions = ()=>{
             if(err){
                 console.log(err);
             }else{
-                order++;
                 let jbody = JSON.parse(body);
                 let music = {};
                 music.title = jbody.data.title;
@@ -48,11 +44,10 @@ const mp3ModuleFunctions = ()=>{
                 music.link = jbody.data.source[`128`];
                 music.id = jbody.data.id;
                 music.thumb = jbody.data.thumbnail;
-                music.order = order;
-                music_data.items.push(music);
+                appVars.music_data.items.push(music);
             }
-            if(music_data.items.length === length){
-                fs.writeFile(`zingmp3_crawler/data.json`, JSON.stringify(music_data, null, 4), (err)=>{
+            if(appVars.music_data.items.length === appVars.item_length){
+                fs.writeFile(appVars.path + appVars.name_file + `.json`, JSON.stringify(appVars.music_data, null, 4), (err)=>{
                     if(err){
                         console.log(err);
                     }else{
