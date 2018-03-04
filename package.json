@@ -1,0 +1,23 @@
+{
+  "name": "googledriveapi",
+  "version": "1.0.0",
+  "description": "Upload files to google drive",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "mp3": "node ./zingmp3_crawler/crawler.js",
+    "nhaccuatui": "node ./nhaccuatui_crawler/crawler.js"
+  },
+  "author": {
+      "name": "Thanh Dinh",
+      "email": "dnthanh1298@gmail.com",
+      "facebook": "https://www.facebook.com/dinhnhatthanh98"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "opn": "^5.2.0",
+    "request": "^2.83.0",
+    "xml-js": "^1.6.2"
+  },
+  "devDependencies": {}
+}
