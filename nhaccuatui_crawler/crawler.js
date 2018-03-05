@@ -1,4 +1,4 @@
 const nhaccuatui = require(`./nhaccuatui_module`)();
-const link = require(`../Setup_links`);
+const setup = require(`../Setup_links`);
 
-nhaccuatui.get_url(link.nhaccuatui_url, {path: `nhaccuatui_crawler/`, name_file: `data`});
+nhaccuatui.get_url(setup.nhaccuatui.nhaccuatui_url, {path: setup.nhaccuatui.file_path, name_file: setup.nhaccuatui.file_name});

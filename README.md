@@ -1,4 +1,5 @@
-Replace the url in Setup_links.js file with the url that you want to crawl infromations from the sites. 
+Replace the url in Setup_links.js file with the url that you want to crawl infromations from the sites.
+Replace file_path's value for your location to save the json file and file_name's value to name your json file.
 
 For crawling informations from mp3.zing.vn, run with method: npm run mp3.
 
@@ -8,11 +9,4 @@ To download all the songs from nhaccuatui's url, visit nhaccuatui_crawler/nhaccu
 
 Note: Setup your download location in your default browser before downloading the songs.
 
-Methods:
-
-get_url(url, options);
-    url: String
-    options: Object
-        path: String
-        name_file: String
     
