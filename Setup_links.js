@@ -16,7 +16,8 @@ const setLink = {
     nhaccuatui: {
         nhaccuatui_url: `https://www.nhaccuatui.com/flash/xml?html5=true&key2=76d4274f8557249cfe855043bb500f11`,
         file_path: `nhaccuatui_crawler/`,
-        file_name: `data`
+        file_name: `data`,
+        download: false
     }
 };
 

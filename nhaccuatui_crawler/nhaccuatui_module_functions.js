@@ -14,6 +14,7 @@ function moduleFunctions(){
                 }else{
                     appVars.path = options.path;
                     appVars.name_file = options.name_file;
+                    appVars.download = options.download;
                     resolve(body);
                 }
             });
@@ -26,22 +27,18 @@ function moduleFunctions(){
         appVars.item_length = jbody.tracklist.track.length;
         for(let i = 0; i < jbody.tracklist.track.length; ++i){
 
-            // This code for downloading all the songs in the link
-            //open(jbody.tracklist.track[i].location._cdata); 
-
-            /*
-                For downloading the informations of all songs as json format, please uncommet the code above and comment 
-                all the codes below in this function.
-            */
-
-            let music = {};
-            music.title = jbody.tracklist.track[i].title._cdata;
-            music.artists = jbody.tracklist.track[i].creator._cdata;
-            music.link = jbody.tracklist.track[i].location._cdata;
-            music.thumb = jbody.tracklist.track[i].coverimage._cdata;
-            appVars.music_data.items.push(music);
+            if(appVars.donwload){
+                open(jbody.tracklist.track[i].location._cdata); 
+            }else{
+                let music = {};
+                music.title = jbody.tracklist.track[i].title._cdata;
+                music.artists = jbody.tracklist.track[i].creator._cdata;
+                music.link = jbody.tracklist.track[i].location._cdata;
+                music.thumb = jbody.tracklist.track[i].coverimage._cdata;
+                appVars.music_data.items.push(music);   
+            }
         }
-        if(appVars.music_data.items.length === appVars.item_length){
+        if((appVars.music_data.items.length === appVars.item_length) && (!appVars.download)){
             fs.writeFile(appVars.path + appVars.name_file + `.json`, JSON.stringify(appVars.music_data, null, 4), (err)=>{
                 if(err){
                     console.log(err);
