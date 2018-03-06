@@ -1,5 +1,6 @@
 Replace the url in Setup_links.js file with the url that you want to crawl infromations from the sites.
 Replace file_path's value for your location to save the json file and file_name's value to name your json file.
+Replace song's informations's value to true for crawling your necessary data.
 
 For crawling informations from mp3.zing.vn, run with method: npm run mp3.
 

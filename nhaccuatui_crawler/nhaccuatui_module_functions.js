@@ -30,11 +30,7 @@ function moduleFunctions(){
             if(appVars.donwload){
                 open(jbody.tracklist.track[i].location._cdata); 
             }else{
-                let music = {};
-                music.title = jbody.tracklist.track[i].title._cdata;
-                music.artists = jbody.tracklist.track[i].creator._cdata;
-                music.link = jbody.tracklist.track[i].location._cdata;
-                music.thumb = jbody.tracklist.track[i].coverimage._cdata;
+                const music = require(`./music_infos`)(jbody, i);
                 appVars.music_data.items.push(music);   
             }
         }

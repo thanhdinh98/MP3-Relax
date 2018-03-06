@@ -1,4 +1,9 @@
 const mp3 = require(`./mp3_module`)();
-const setup = require(`../Setup_links`);
+const setup = require(`../Setup`);
 
-mp3.get_url(setup.mp3.mp3_url, {path: setup.mp3.file_path, name_file: setup.mp3.file_name});
+const options = {
+    path: setup.setup_link.mp3.file_path, 
+    name_file: setup.setup_link.mp3.file_name
+};
+
+mp3.get_url(setup.setup_link.mp3.mp3_url, options, setup.setup_music_infos);

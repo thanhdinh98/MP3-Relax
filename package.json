@@ -1,7 +1,7 @@
 {
-  "name": "googledriveapi",
+  "name": "Crawler",
   "version": "1.0.0",
-  "description": "Upload files to google drive",
+  "description": "Crawl music's informations from mp3.zing.vn or nhaccuatui.com",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

@@ -1,704 +1,804 @@
 {
     "items": [
         {
-            "title": "Cùng Anh",
-            "artists": "Ngọc Dolil, Hagi, STee",
-            "link": "//zmp3-mp3-s1.zadn.vn/03738e675a23b37dea32/2313787426765899173?authen=exp=1520239708~acl=/03738e675a23b37dea32/*~hmac=f0788440cf4cf4203cfd163cc85aa6d5",
-            "id": "ZW9A7W00",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/a/d/ad67a7fbc0b8ad7eac660eb803cdeb21_1514533626.jpg"
-        },
-        {
+            "id": "ZW9A8ACC",
             "title": "Người Lạ Ơi",
             "artists": "Karik, Orange, Superbrothers",
-            "link": "//zmp3-mp3-s1.zadn.vn/aff2b47361378869d126/5515390283663582634?authen=exp=1520244037~acl=/aff2b47361378869d126/*~hmac=292b28690c6496162c39156eecadc286",
-            "id": "ZW9A8ACC",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/1/2/12a12b09a9de42c53126ba39002c6c29_1515217873.jpg"
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2018/01/22/d3c01811511194542a8015aad04710f3_1078016588.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/1/2/12a12b09a9de42c53126ba39002c6c29_1515217873.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/aff2b47361378869d126/5515390283663582634?authen=exp=1520440384~acl=/aff2b47361378869d126/*~hmac=5668ba8ccc70613fe69f4f94eca14902"
         },
         {
-            "title": "Mình Cưới Nhau Đi",
-            "artists": "Huỳnh James, Pjnboys",
-            "link": "//zmp3-mp3-s1.zadn.vn/603a21fff7bb1ee547aa/6745492230489640910?authen=exp=1520247287~acl=/603a21fff7bb1ee547aa/*~hmac=6806aed48fc446f96bcca7f3e852bb7e",
-            "id": "ZW9AFO8O",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/d/3/d304a3c50d3eb7a6ada2b1c8c546d618_1517579206.jpg"
-        },
-        {
-            "title": "Buồn Của Anh",
-            "artists": "K-ICM, Đạt G, Masew",
-            "link": "//zmp3-mp3-s1.zadn.vn/ffe961cab58e5cd0059f/68695268730484457?authen=exp=1520240465~acl=/ffe961cab58e5cd0059f/*~hmac=b23b7345d51fa346d3a7269552e6e045",
-            "id": "ZW8WD9BE",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/c/0/c0827e5f2c898fc987e7883151b0476a_1513651595.png"
-        },
-        {
-            "title": "Em Gái Mưa",
-            "artists": "Hương Tràm",
-            "link": "//zmp3-mp3-s1.zadn.vn/2daa5beb81af68f131be/3246869633634662863?authen=exp=1520251161~acl=/2daa5beb81af68f131be/*~hmac=62cd5aa2698a2f5b55579e9ad9e45841",
-            "id": "ZW8IZECW",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/e/4/e4ad98e7656f451b0c9eba0aa03c7ddb_1504595022.jpg"
-        },
-        {
-            "title": "Hôm Nay Tôi Buồn",
-            "artists": "Phùng Khánh Linh",
-            "link": "//zmp3-mp3-s1.zadn.vn/58c86f61b925507b0934/4061524407502532887?authen=exp=1520247175~acl=/58c86f61b925507b0934/*~hmac=095b28661dc657cb4b0d12e8a41971e1",
-            "id": "ZW9AFD7C",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/0/8/08193d6fe58d511c3cf519a0cc856c91_1517889125.png"
-        },
-        {
-            "title": "Để Cho Em Khóc (Vali Tình Yêu OST)",
-            "artists": "Vy Oanh",
-            "link": "//zmp3-mp3-s1.zadn.vn/04012077cf33266d7f22/3177598637209028991?authen=exp=1520241692~acl=/04012077cf33266d7f22/*~hmac=ba110ca5c721d8322dec5ce6c64bd942",
-            "id": "ZW799A0O",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/7/8/78822d9ca7bae4240a7f9048e776dc4e_1487909110.jpg"
-        },
-        {
-            "title": "Người Phản Bội",
-            "artists": "Lê Bảo Bình",
-            "link": "//zmp3-mp3-s1.zadn.vn/8b2d06c2d2863bd86297/7042669372465427612?authen=exp=1520241900~acl=/8b2d06c2d2863bd86297/*~hmac=83b9de29edf1bc9aca8f88ae141c6f28",
-            "id": "ZW8WZCEU",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/avatars/a/3/a337eebfabeb343072c623503c5527b9_1509591292.jpg"
-        },
-        {
+            "id": "ZW8WOFI7",
             "title": "Sống Xa Anh Chẳng Dễ Dàng",
             "artists": "Bảo Anh",
-            "link": "//zmp3-mp3-s1.zadn.vn/0115d71e0c5ae504bc4b/4205179650957840805?authen=exp=1520241115~acl=/0115d71e0c5ae504bc4b/*~hmac=0ed9b34fff11e1acc706f29d972e5fe1",
-            "id": "ZW8WOFI7",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/e/4/e4ad98e7656f451b0c9eba0aa03c7ddb_1509525165.jpg"
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/11/24/4b044611883d2dd5016d5ac3ace3dcc3_1076424343.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/e/4/e4ad98e7656f451b0c9eba0aa03c7ddb_1509525165.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/0115d71e0c5ae504bc4b/4205179650957840805?authen=exp=1520440661~acl=/0115d71e0c5ae504bc4b/*~hmac=9c6ba60a37b2353803e90da777f7b34d"
         },
         {
-            "title": "Trong Trí Nhớ Của Anh",
-            "artists": "Nguyễn Trần Trung Quân",
-            "link": "//zmp3-mp3-s1.zadn.vn/0da5aac87f8c96d2cf9d/9161489175895604898?authen=exp=1520250081~acl=/0da5aac87f8c96d2cf9d/*~hmac=63432e38acceeaa6cfe272d2f205dd3d",
-            "id": "ZW9A9OUO",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/b/4/b41920b12c94d7dc262bd2af3c028922_1515491296.jpg"
-        },
-        {
-            "title": "Chạm Khẽ Tim Anh Một Chút Thôi",
-            "artists": "Noo Phước Thịnh",
-            "link": "//zmp3-mp3-s1.zadn.vn/310aeb9a30ded98080cf/2052443568711528321?authen=exp=1520251738~acl=/310aeb9a30ded98080cf/*~hmac=a9ec553a7f43fc1b527934f359e49451",
-            "id": "ZW8IFZUI",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/6/e/6e7b90d96728c9ce1b4c2a104d622784_1507799020.jpg"
-        },
-        {
-            "title": "Đừng Ai Nhắc Về Anh Ấy",
-            "artists": "Trà My Idol",
-            "link": "//zmp3-mp3-s1.zadn.vn/de0f10f2c8b621e878a7/8028330437800394190?authen=exp=1520240071~acl=/de0f10f2c8b621e878a7/*~hmac=5e9f541511f3450956fb9d6e9d71488f",
-            "id": "ZW7FC0FB",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/7/7/77a8e81fa7b8d83babc10fbf061b8338_1495638639.jpg"
-        },
-        {
+            "id": "ZW8W6UEF",
             "title": "Đã Lỡ Yêu Em Nhiều",
             "artists": "JustaTee",
-            "link": "//zmp3-mp3-s1.zadn.vn/7147afa27be692b8cbf7/3858972813232405650?authen=exp=1520244769~acl=/7147afa27be692b8cbf7/*~hmac=f760f28ac927ec50fd0f52651551e4d1",
-            "id": "ZW8W6UEF",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/d/a/dae7488899bf6ee55f4127cb6a889391_1510557125.jpg"
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/f/5/f5633e0107175f54c83a6dd061c5bb12.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/d/a/dae7488899bf6ee55f4127cb6a889391_1510557125.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/7147afa27be692b8cbf7/3858972813232405650?authen=exp=1520440456~acl=/7147afa27be692b8cbf7/*~hmac=bd111310a22b0607c6c718b8c86d3a56"
         },
         {
+            "id": "ZW8WD9BE",
+            "title": "Buồn Của Anh",
+            "artists": "K-ICM, Đạt G, Masew",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/b/b/bba35464993aa7c1bc8e46527d183786.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/c/0/c0827e5f2c898fc987e7883151b0476a_1513651595.png",
+            "link": "//zmp3-mp3-s1.zadn.vn/ffe961cab58e5cd0059f/68695268730484457?authen=exp=1520440242~acl=/ffe961cab58e5cd0059f/*~hmac=d9c3c59e157afc0b29cd9b2ed34fa4fe"
+        },
+        {
+            "id": "ZW9AFO8O",
+            "title": "Mình Cưới Nhau Đi",
+            "artists": "Huỳnh James, Pjnboys",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2018/f/b/fb5e687b1e2ad3ecb9946faa88effe38.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/d/3/d304a3c50d3eb7a6ada2b1c8c546d618_1517579206.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/603a21fff7bb1ee547aa/6745492230489640910?authen=exp=1520440418~acl=/603a21fff7bb1ee547aa/*~hmac=115217a52b1983926ecec1ee4156e83f"
+        },
+        {
+            "id": "ZW9A7W00",
+            "title": "Cùng Anh",
+            "artists": "Ngọc Dolil, Hagi, STee",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2018/d/e/de14ccb07a016a6509b42d6fd7b08bd3.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/a/d/ad67a7fbc0b8ad7eac660eb803cdeb21_1514533626.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/03738e675a23b37dea32/2313787426765899173?authen=exp=1520440164~acl=/03738e675a23b37dea32/*~hmac=762b4290d779c2ddc16cd06b1c159ccd"
+        },
+        {
+            "id": "ZW8IZECW",
+            "title": "Em Gái Mưa",
+            "artists": "Hương Tràm",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/09/11/3ebde5d98e1e131a4bff6adb12b4ce66_1076366914.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/e/4/e4ad98e7656f451b0c9eba0aa03c7ddb_1504595022.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/2daa5beb81af68f131be/3246869633634662863?authen=exp=1520440574~acl=/2daa5beb81af68f131be/*~hmac=ef1dbd2ef0ac19a165dab2511d386c41"
+        },
+        {
+            "id": "ZW8IFZUI",
+            "title": "Chạm Khẽ Tim Anh Một Chút Thôi",
+            "artists": "Noo Phước Thịnh",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/11/24/b652087924775b3e886579ca9ed2cb2b_1076405441.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/6/e/6e7b90d96728c9ce1b4c2a104d622784_1507799020.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/310aeb9a30ded98080cf/2052443568711528321?authen=exp=1520440949~acl=/310aeb9a30ded98080cf/*~hmac=b4277f397c16be0fd6025778e3d70f16"
+        },
+        {
+            "id": "ZW8WWEEB",
             "title": "Mặt Trời Của Em",
             "artists": "Phương Ly, JustaTee",
-            "link": "//zmp3-mp3-s1.zadn.vn/64d9e2e639a2d0fc89b3/5367828857673443509?authen=exp=1520247877~acl=/64d9e2e639a2d0fc89b3/*~hmac=f15e7b1383cb04518a561df0be5026e9",
-            "id": "ZW8WWEEB",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/1/9/19c8d9340b18111044e084d806335fd9_1509176983.jpg"
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2018/01/22/836d3235b00043a45285d48482c975d0_1076420203.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/1/9/19c8d9340b18111044e084d806335fd9_1509176983.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/64d9e2e639a2d0fc89b3/5367828857673443509?authen=exp=1520440286~acl=/64d9e2e639a2d0fc89b3/*~hmac=8a340998d68fedcefb1046eb629c32c4"
         },
         {
+            "id": "ZW7FC0FB",
+            "title": "Đừng Ai Nhắc Về Anh Ấy",
+            "artists": "Trà My Idol",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/06/22/d6bbdc0049354dd56e89d43bd1e91959_1076260987.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/7/7/77a8e81fa7b8d83babc10fbf061b8338_1495638639.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/de0f10f2c8b621e878a7/8028330437800394190?authen=exp=1520445005~acl=/de0f10f2c8b621e878a7/*~hmac=a45ad4734512b244f52fabf6903db3ca"
+        },
+        {
+            "id": "ZW799A0O",
+            "title": "Để Cho Em Khóc (Vali Tình Yêu OST)",
+            "artists": "Vy Oanh",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/04/10/217e502548a92c2a8166eea2a8306141_1075857795.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/7/8/78822d9ca7bae4240a7f9048e776dc4e_1487909110.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/04012077cf33266d7f22/3177598637209028991?authen=exp=1520440483~acl=/04012077cf33266d7f22/*~hmac=97a7fe6b3fad8fd81641453d8f360883"
+        },
+        {
+            "id": "ZW8WZCEU",
+            "title": "Người Phản Bội",
+            "artists": "Lê Bảo Bình",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/9/f/9fb2d25666b3cb6a1f7bff716901f99e.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/avatars/a/3/a337eebfabeb343072c623503c5527b9_1509591292.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/8b2d06c2d2863bd86297/7042669372465427612?authen=exp=1520441348~acl=/8b2d06c2d2863bd86297/*~hmac=eae83cc48cd69fbaaf290c76f6940147"
+        },
+        {
+            "id": "ZW8W6B09",
             "title": "Kém Duyên",
             "artists": "Rum, NIT, Masew",
-            "link": "//zmp3-mp3-s1.zadn.vn/ff1578e2aca645f81cb7/285902104879125743?authen=exp=1520249465~acl=/ff1578e2aca645f81cb7/*~hmac=f84403b988c67e1baf93ad4e58b21b0f",
-            "id": "ZW8W6B09",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/8/b/8bdfda3e88db5f9b6bf2ff7d1757e989_1510654845.jpg"
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/11/24/73fd51101e4c9e8d96c2b31f8c4dd7f7_1076435593.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/8/b/8bdfda3e88db5f9b6bf2ff7d1757e989_1510654845.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/ff1578e2aca645f81cb7/285902104879125743?authen=exp=1520441220~acl=/ff1578e2aca645f81cb7/*~hmac=174f7090f56cd30e09fc8920a65c7228"
         },
         {
-            "title": "Xin Đừng Lặng Im",
-            "artists": "Soobin Hoàng Sơn",
-            "link": "//zmp3-mp3-s1.zadn.vn/3cedeac33387dad98396/8127820420268223686?authen=exp=1520242970~acl=/3cedeac33387dad98396/*~hmac=29650abc7dcbe1259f3cab832708933a",
-            "id": "ZW80B6I8",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/1/e/1ebc5f3387b2179e25e55d6208b16b04_1500952255.png"
+            "id": "ZW9AFD7C",
+            "title": "Hôm Nay Tôi Buồn",
+            "artists": "Phùng Khánh Linh",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2018/f/5/f5ed4d2e3531f51cb2d4a63dae3fc6e9.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/0/8/08193d6fe58d511c3cf519a0cc856c91_1517889125.png",
+            "link": "//zmp3-mp3-s1.zadn.vn/58c86f61b925507b0934/4061524407502532887?authen=exp=1520440265~acl=/58c86f61b925507b0934/*~hmac=1f074427973a67c827cdc2e6c718150d"
         },
         {
-            "title": "Ánh Nắng Của Anh (Chờ Em Đến Ngày Mai OST)",
-            "artists": "Đức Phúc",
-            "link": "//zmp3-mp3-s1.zadn.vn/79cec7744e30a76efe21/561239208516760182?authen=exp=1520251323~acl=/79cec7744e30a76efe21/*~hmac=9605ecb04d1644c8308d4179443afecd",
-            "id": "ZW78BW9D",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/avatars/d/7/d7f34aa6b1112e4b605f6c6e7eccd162_1509437674.jpg"
-        },
-        {
+            "id": "ZW8IDZWC",
             "title": "Bên Nhau Thật Khó",
             "artists": "Châu Khải Phong, Khang Việt",
-            "link": "//zmp3-mp3-s1.zadn.vn/50e6f5442e00c75e9e11/2192015726100492765?authen=exp=1520240200~acl=/50e6f5442e00c75e9e11/*~hmac=31ca8663c14815eb52eeaad41d7f57f0",
-            "id": "ZW8IDZWC",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/0/0/001d278979f5979f8d9010e3f3482981_1507106621.jpg"
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2018/03/05/1bf99fca1a439a8b2594787235992f2e_1076397228.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/0/0/001d278979f5979f8d9010e3f3482981_1507106621.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/50e6f5442e00c75e9e11/2192015726100492765?authen=exp=1520440673~acl=/50e6f5442e00c75e9e11/*~hmac=f96bb5d6da3e670a90ad271278059a67"
         },
         {
+            "id": "ZW9A9OUO",
+            "title": "Trong Trí Nhớ Của Anh",
+            "artists": "Nguyễn Trần Trung Quân",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2018/e/c/ecffff5a3d855f57fd4a1654b9eeb17d.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/b/4/b41920b12c94d7dc262bd2af3c028922_1515491296.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/0da5aac87f8c96d2cf9d/9161489175895604898?authen=exp=1520440792~acl=/0da5aac87f8c96d2cf9d/*~hmac=577066961ddebf3719459999296eb07c"
+        },
+        {
+            "id": "ZW9ACF7O",
             "title": "Vỡ (Siêu Sao Siêu Ngố OST)",
             "artists": "Đức Phúc",
-            "link": "//zmp3-mp3-s1.zadn.vn/33a3f6a423e0cabe93f1/3181332739902500398?authen=exp=1520247702~acl=/33a3f6a423e0cabe93f1/*~hmac=8432e8bec4e68fe5c5a7ab1f63d3cd2c",
-            "id": "ZW9ACF7O",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/d/3/d3af5475826bb5d68edbdcf735953f58_1516948965.jpg"
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2018/e/e/eedbac225f1d4667bfd752fae00da863.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/d/3/d3af5475826bb5d68edbdcf735953f58_1516948965.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/33a3f6a423e0cabe93f1/3181332739902500398?authen=exp=1520440403~acl=/33a3f6a423e0cabe93f1/*~hmac=6566696f6c538da07bf67fe1463911da"
         },
         {
-            "title": "Giả Vờ Thương Anh Được Không",
-            "artists": "Chu Bin",
-            "link": "//zmp3-mp3-s1.zadn.vn/337e3a85dbc1329f6bd0/7174013217809661129?authen=exp=1520248978~acl=/337e3a85dbc1329f6bd0/*~hmac=bf1d38eb85626aa558b1ac934ee8a2e1",
-            "id": "ZW7CZDFI",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/1/f/1fe88bcbff5737304b1df55ef537cd76_1491637103.jpg"
-        },
-        {
-            "title": "Phía Sau Một Cô Gái",
+            "id": "ZW80B6I8",
+            "title": "Xin Đừng Lặng Im",
             "artists": "Soobin Hoàng Sơn",
-            "link": "//zmp3-mp3-s1.zadn.vn/a32e305cab1842461b09/4870257449214198184?authen=exp=1520243172~acl=/a32e305cab1842461b09/*~hmac=1d4dcffecef5641fcb7e7a84dad6dbf9",
-            "id": "ZW78U908",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/c/b/cbe2dfb3d65dc97c68f983d09bff78a7_1476796126.jpg"
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/07/24/de6f820976bf270a0f30adad360f2197_1076323736.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/1/e/1ebc5f3387b2179e25e55d6208b16b04_1500952255.png",
+            "link": "//zmp3-mp3-s1.zadn.vn/3cedeac33387dad98396/8127820420268223686?authen=exp=1520441235~acl=/3cedeac33387dad98396/*~hmac=ba4dd9630681548f668a8c826006a662"
         },
         {
-            "title": "Túy Âm",
-            "artists": "Xesi, Masew, Nhật Nguyễn",
-            "link": "//zmp3-mp3-s1.zadn.vn/1566955f4f1ba645ff0a/5714298647625346942?authen=exp=1520244991~acl=/1566955f4f1ba645ff0a/*~hmac=04da23a9cc6395c0ac5d268c7f194081",
-            "id": "ZW8I8008",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/f/9/f9c0475ec02716554fba3f63e5b4ac37_1504991428.jpg"
-        },
-        {
-            "title": "Em Sẽ Hối Hận",
-            "artists": "Đình Phong, Tân Zui, Son2m",
-            "link": "//zmp3-mp3-s1.zadn.vn/c09b14b5c1f128af71e0/2610467766552596727?authen=exp=1520241677~acl=/c09b14b5c1f128af71e0/*~hmac=0437ca467ea550a7071142736178756b",
-            "id": "ZW9ABZ76",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/b/b/bbfa591ec7e4e0827a0f75be874628e3_1516245938.jpg"
-        },
-        {
-            "title": "Ta Còn Yêu Nhau",
-            "artists": "Đức Phúc",
-            "link": "//zmp3-mp3-s1.zadn.vn/fd144ec8958c7cd2259d/2825832577347837847?authen=exp=1520252606~acl=/fd144ec8958c7cd2259d/*~hmac=85173b7dac4a933e9e1e7e96edd99f8e",
-            "id": "ZW8IC98I",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/6/1/61c5d7e2d3d6a354861e05836b1d3734_1506652100.jpg"
-        },
-        {
-            "title": "Thấy Là Yêu Thương",
-            "artists": "OnlyC, Lou Hoàng",
-            "link": "//zmp3-mp3-s1.zadn.vn/d536b5e561a188ffd1b0/747385880158281145?authen=exp=1520243427~acl=/d536b5e561a188ffd1b0/*~hmac=c5193aeba06a688b8b5b28fcd074fa71",
-            "id": "ZW8W777E",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/b/2/b2c0638904fb8f20547dd66f8f18d279_1510887342.jpg"
-        },
-        {
-            "title": "1 Phút",
-            "artists": "Andiez",
-            "link": "//zmp3-mp3-s1.zadn.vn/09864cab96ef7fb126fe/6545706316276108068?authen=exp=1520251267~acl=/09864cab96ef7fb126fe/*~hmac=7a90cf5bb0ee7ee03adedc29326b9f0e",
-            "id": "ZW8I76Z8",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/f/d/fd4276c762a53e86ec980bb373a5a805_1504774753.jpg"
-        },
-        {
+            "id": "ZW80Z8DE",
             "title": "Chiều Hôm Ấy",
             "artists": "Jaykii",
-            "link": "//zmp3-mp3-s1.zadn.vn/19a31852c11628487107/2779820111073802153?authen=exp=1520240336~acl=/19a31852c11628487107/*~hmac=92eb1c790f2fb594a5661180311abf86",
-            "id": "ZW80Z8DE",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/0/d/0d1fe0b30a319e56dce058a2b30f37d7_1503588020.jpg"
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/08/24/206af51455cf29af3d1f51d071dfd610_1076299870.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/0/d/0d1fe0b30a319e56dce058a2b30f37d7_1503588020.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/19a31852c11628487107/2779820111073802153?authen=exp=1520441133~acl=/19a31852c11628487107/*~hmac=eafabeca39761b08374c951fee572d23"
         },
         {
-            "title": "Yêu Em Rất Nhiều",
-            "artists": "Hoàng Tôn",
-            "link": "//zmp3-mp3-s1.zadn.vn/4e1dcf2c1568fc36a579/6560157113725050153?authen=exp=1520252939~acl=/4e1dcf2c1568fc36a579/*~hmac=f9c61abe8164b565519024f4d7b2f18a",
-            "id": "ZW8I87UD",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/b/2/b2d7fda219a63962ad3c7a997d8821ee_1506397434.jpg"
+            "id": "ZW8I8008",
+            "title": "Túy Âm",
+            "artists": "Xesi, Masew, Nhật Nguyễn",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/09/18/3712553c6647e773a07064cae1818282_1076375432.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/f/9/f9c0475ec02716554fba3f63e5b4ac37_1504991428.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/1566955f4f1ba645ff0a/5714298647625346942?authen=exp=1520440695~acl=/1566955f4f1ba645ff0a/*~hmac=8df323ff7653a2df4725e16a864581bc"
         },
         {
-            "title": "Chuyện Anh Vẫn Chưa Kể",
-            "artists": "Chi Dân",
-            "link": "//zmp3-mp3-s1.zadn.vn/5065ea483e0cd7528e1d/7013312474826125960?authen=exp=1520239971~acl=/5065ea483e0cd7528e1d/*~hmac=792805651901875ff59eb2d00c7c2ea1",
-            "id": "ZW8WCUW0",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/2/7/27e28f2246089f1f54390eb6bd6d218b_1512960423.jpg"
+            "id": "ZW78BW9D",
+            "title": "Ánh Nắng Của Anh (Chờ Em Đến Ngày Mai OST)",
+            "artists": "Đức Phúc",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/01/12/2290252da79e87550a07e858db86579f_1075798557.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/avatars/d/7/d7f34aa6b1112e4b605f6c6e7eccd162_1509437674.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/79cec7744e30a76efe21/561239208516760182?authen=exp=1520441810~acl=/79cec7744e30a76efe21/*~hmac=fb04ccec6daef760434fbeb0ef547778"
         },
         {
-            "title": "Chắc Anh Đang",
-            "artists": "Tiên Tiên, Trang",
-            "link": "//zmp3-mp3-s1.zadn.vn/1056748fa2cb4b9512da/7597739200946813922?authen=exp=1520252820~acl=/1056748fa2cb4b9512da/*~hmac=609010be1466076f16ae45c66b0bc291",
-            "id": "ZW9AF6ZU",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/9/4/945d128e37b1efa4e48c4f03a223a701_1517719878.png"
+            "id": "ZW8I76Z8",
+            "title": "1 Phút",
+            "artists": "Andiez",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/09/11/077587f4673912eccd257e9ca60c700c_1076372952.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/f/d/fd4276c762a53e86ec980bb373a5a805_1504774753.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/09864cab96ef7fb126fe/6545706316276108068?authen=exp=1520442185~acl=/09864cab96ef7fb126fe/*~hmac=fa7802029e62042655a1cc0e8512e9be"
         },
         {
-            "title": "Chỉ Bằng Cái Gật Đầu",
-            "artists": "Yan Nguyễn",
-            "link": "//zmp3-mp3-s1.zadn.vn/003170eea8aa41f418bb/3950391704103559720?authen=exp=1520241466~acl=/003170eea8aa41f418bb/*~hmac=85b8ab92882f899d3a31696f0e21d794",
-            "id": "ZW7U8OU9",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/9/d/9dca47c7a31744400935c9405900df1c_1498726562.jpg"
-        },
-        {
-            "title": "Kết Thúc Lâu Rồi",
-            "artists": "Lê Bảo Bình",
-            "link": "//zmp3-mp3-s1.zadn.vn/b6304a1b955f7c01254e/2107217537171129512?authen=exp=1520244348~acl=/b6304a1b955f7c01254e/*~hmac=aa25d8580eca0e92f329a0e52dd38b0f",
-            "id": "ZW7F9O88",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/avatars/d/7/d792e1f248262cea4ff433ba8256d427_1479694390.jpg"
-        },
-        {
-            "title": "Nơi Này Có Anh",
-            "artists": "Sơn Tùng M-TP",
-            "link": "//zmp3-mp3-s1.zadn.vn/d41230d1df9536cb6f84/1181817601640857205?authen=exp=1520253128~acl=/d41230d1df9536cb6f84/*~hmac=6a89dca38ffc5ee036c4750ac4c84688",
-            "id": "ZW79ZBE8",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/3/a/3a9e48bc4df7bbde3acea30cc267f609_1487066528.jpg"
-        },
-        {
+            "id": "ZW8WAE7Z",
             "title": "Để Cho Anh Khóc",
             "artists": "Gia Huy",
-            "link": "//zmp3-mp3-s1.zadn.vn/49ced2ac06e8efb6b6f9/7825412818464596397?authen=exp=1520239335~acl=/49ced2ac06e8efb6b6f9/*~hmac=8deda3dbff26d4d8c4c7413d1a52d868",
-            "id": "ZW8WAE7Z",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/7/5/7536f3b2a1d852cd990df327c906e3b6_1512375783.jpg"
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/12/23/9909f9516f35f25f2754ee6ba0353235_1076452853.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/7/5/7536f3b2a1d852cd990df327c906e3b6_1512375783.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/49ced2ac06e8efb6b6f9/7825412818464596397?authen=exp=1520442672~acl=/49ced2ac06e8efb6b6f9/*~hmac=5061a509bc3233fcb0aaac9db8e3572a"
         },
         {
-            "title": "Người Từng Thương",
+            "id": "ZW9ABZ76",
+            "title": "Em Sẽ Hối Hận",
+            "artists": "Đình Phong, Tân Zui, Son2m",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2018/7/6/76bffc89415879316b7aaeef6a243f57.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/b/b/bbfa591ec7e4e0827a0f75be874628e3_1516245938.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/c09b14b5c1f128af71e0/2610467766552596727?authen=exp=1520440702~acl=/c09b14b5c1f128af71e0/*~hmac=17e10ee35615a9768315f9ca3104e5cf"
+        },
+        {
+            "id": "ZW9AF6ZU",
+            "title": "Chắc Anh Đang",
+            "artists": "Tiên Tiên, Trang",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2018/5/d/5da4e1801f3af203763000592957dad1.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/9/4/945d128e37b1efa4e48c4f03a223a701_1517719878.png",
+            "link": "//zmp3-mp3-s1.zadn.vn/1056748fa2cb4b9512da/7597739200946813922?authen=exp=1520442271~acl=/1056748fa2cb4b9512da/*~hmac=33fe5e297615aa046172ededf773a757"
+        },
+        {
+            "id": "ZW8WCUW0",
+            "title": "Chuyện Anh Vẫn Chưa Kể",
+            "artists": "Chi Dân",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/9/3/939f291a61212c1684038171677cc4ce.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/2/7/27e28f2246089f1f54390eb6bd6d218b_1512960423.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/5065ea483e0cd7528e1d/7013312474826125960?authen=exp=1520441134~acl=/5065ea483e0cd7528e1d/*~hmac=856ede81c12f4969a4140e5ab0b8eb37"
+        },
+        {
+            "id": "ZW8IC98I",
+            "title": "Ta Còn Yêu Nhau",
+            "artists": "Đức Phúc",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/1/a/1a32ba8139f27eaba1ec911a8e33c422.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/6/1/61c5d7e2d3d6a354861e05836b1d3734_1506652100.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/fd144ec8958c7cd2259d/2825832577347837847?authen=exp=1520441209~acl=/fd144ec8958c7cd2259d/*~hmac=d277f2f1cb7af6d69f01dc2687469b43"
+        },
+        {
+            "id": "ZW7U8OU9",
+            "title": "Chỉ Bằng Cái Gật Đầu",
+            "artists": "Yan Nguyễn",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/06/22/6459fbed33dea003e2814516daa52f9f_1075524297.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/9/d/9dca47c7a31744400935c9405900df1c_1498726562.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/003170eea8aa41f418bb/3950391704103559720?authen=exp=1520442096~acl=/003170eea8aa41f418bb/*~hmac=4fc57470ac00a3bb1361b722801449b8"
+        },
+        {
+            "id": "ZW7CZDFI",
+            "title": "Giả Vờ Thương Anh Được Không",
             "artists": "Chu Bin",
-            "link": "//zmp3-mp3-s1.zadn.vn/19c5b0a465e08cbed5f1/1677475456338886260?authen=exp=1520244262~acl=/19c5b0a465e08cbed5f1/*~hmac=06fc17a1a591ba44b84a4ef73d80eeeb",
-            "id": "ZW9A9ZEO",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/b/a/baa1c140842272b7da210330113d5061_1515573121.jpg"
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/04/23/09089e359b839153183a569b4f6de87a_1076039025.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/1/f/1fe88bcbff5737304b1df55ef537cd76_1491637103.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/337e3a85dbc1329f6bd0/7174013217809661129?authen=exp=1520431764~acl=/337e3a85dbc1329f6bd0/*~hmac=abf713afdc9b205bcc30f5015ef3f09a"
         },
         {
-            "title": "Gửi Người Yêu Tương Lai",
-            "artists": "Yến Lê",
-            "link": "//zmp3-mp3-s1.zadn.vn/58738018565cbf02e64d/1211975486358758361?authen=exp=1520241119~acl=/58738018565cbf02e64d/*~hmac=7806a68e5f6a4eb49433424613cdc34b",
-            "id": "ZW9BOIUC",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/d/7/d70c534599c7cff0a49e35e7827fed2c_1519808665.jpg"
-        },
-        {
-            "title": "Có Em Chờ",
-            "artists": "Min, Mr.A",
-            "link": "//zmp3-mp3-s1.zadn.vn/3292444e9b0a72542b1b/6792228024536335773?authen=exp=1520248195~acl=/3292444e9b0a72542b1b/*~hmac=df27572e034324a73d5c5fba2489008c",
-            "id": "ZW7FODC9",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/f/3/f3ccdd27d2000e3f9255a7e3e2c48800_1493277779.jpg"
-        },
-        {
-            "title": "Yêu 5",
-            "artists": "Rhymastic",
-            "link": "//zmp3-mp3-s1.zadn.vn/3fe01ae2f4a61df844b7/978826610756853978?authen=exp=1520239774~acl=/3fe01ae2f4a61df844b7/*~hmac=1f58e94a6e8fce10cf54b43450b843e5",
-            "id": "ZW79O8DI",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/b/5/b5aa78aa102467e5648160a4ac93df8e_1486467660.jpg"
-        },
-        {
-            "title": "Hỏi Thăm Nhau",
-            "artists": "Lê Bảo Bình",
-            "link": "//zmp3-mp3-s1.zadn.vn/e92906f793b37aed23a2/3280010726320456534?authen=exp=1520249963~acl=/e92906f793b37aed23a2/*~hmac=e13cd23d0ca25961bbb0886b2b1a8e5a",
-            "id": "ZW7887D6",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/a/5/a55db8b18b37cb07be9a4a5f1903cae1_1479465454.png"
-        },
-        {
+            "id": "ZW8WI6ID",
             "title": "Em Biết",
             "artists": "Trịnh Đình Quang",
-            "link": "//zmp3-mp3-s1.zadn.vn/846f7f2ca4684d361479/2129072780979292263?authen=exp=1520239112~acl=/846f7f2ca4684d361479/*~hmac=3d2c93aafa85f83e63812f0c70153784",
-            "id": "ZW8WI6ID",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/e/4/e4ad98e7656f451b0c9eba0aa03c7ddb_1508489928.jpg"
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/10/24/74b8047870ae0cf3cd3d14f2554483db_1076413853.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/e/4/e4ad98e7656f451b0c9eba0aa03c7ddb_1508489928.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/846f7f2ca4684d361479/2129072780979292263?authen=exp=1520444314~acl=/846f7f2ca4684d361479/*~hmac=5f217e1c0ce8263ec78243335fb96a78"
         },
         {
-            "title": "Lạ Lùng",
-            "artists": "Vũ.",
-            "link": "//zmp3-mp3-s1.zadn.vn/d3d79e407004995ac015/188965803224885182?authen=exp=1520249722~acl=/d3d79e407004995ac015/*~hmac=fa5425eb1a75d62a6a0b5d8c505e1398",
-            "id": "ZW78E6A9",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/a/8/a8f70ecae845eadbe4495aa99308f3f0_1484296225.png"
-        },
-        {
-            "title": "Yêu Vội Vàng",
-            "artists": "Lê Bảo Bình",
-            "link": "//zmp3-mp3-s1.zadn.vn/3edc97530817e149b806/4151012926815339241?authen=exp=1520239064~acl=/3edc97530817e149b806/*~hmac=97942bd6ced2cdb943f5aa84576de59e",
-            "id": "ZW7U87BA",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/a/5/a55db8b18b37cb07be9a4a5f1903cae1_1479465454.png"
-        },
-        {
+            "id": "ZW8WBF7C",
             "title": "Năm Ấy",
             "artists": "Đức Phúc",
-            "link": "//zmp3-mp3-s1.zadn.vn/cafbeab73ef3d7ad8ee2/4214375802087424381?authen=exp=1520244754~acl=/cafbeab73ef3d7ad8ee2/*~hmac=cb3688a1673df3546e62d3b4fa9c1d0b",
-            "id": "ZW8WBF7C",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/1/e/1e6ae4ada992769567b71815f124fac5_1512784134.jpg"
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/12/23/0d9a04aca526fec74eb441485a5a64ac_1076457212.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/1/e/1e6ae4ada992769567b71815f124fac5_1512784134.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/cafbeab73ef3d7ad8ee2/4214375802087424381?authen=exp=1520444121~acl=/cafbeab73ef3d7ad8ee2/*~hmac=4ccf23b04ba6a4c1dc0e930b8d3f772e"
         },
         {
+            "id": "ZW9BO8BC",
+            "title": "Cuộc Sống Em Ổn Không",
+            "artists": "Anh Tú The Voice",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2018/1/1/11e6f5b90a9233a91763313babf2871d.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/b/6/b6dbe5dfb1058c30e226e2bef5dad031_1519986689.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/0c706617b053590d0042/3148227997097792029?authen=exp=1520440340~acl=/0c706617b053590d0042/*~hmac=ac6d1a0abf634bc11b30df048f7fb086"
+        },
+        {
+            "id": "ZW8WOIEA",
             "title": "Yêu Từ Phía Xa",
             "artists": "Chi Dân",
-            "link": "//zmp3-mp3-s1.zadn.vn/15e020c4fb8012de4b91/209070464505213997?authen=exp=1520240518~acl=/15e020c4fb8012de4b91/*~hmac=ccd51cce8653a8873997878493023fca",
-            "id": "ZW8WOIEA",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/9/7/9751bd0e0d4fa7026b7a34e8f49cc9ae_1509174251.jpg"
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/11/24/17acd8abcd992fc23e289d11da804a84_1076420970.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/9/7/9751bd0e0d4fa7026b7a34e8f49cc9ae_1509174251.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/15e020c4fb8012de4b91/209070464505213997?authen=exp=1520442051~acl=/15e020c4fb8012de4b91/*~hmac=8f7f7ee6363c91df9e9fe4d9a2824eb3"
         },
         {
+            "id": "ZW9A77I0",
             "title": "Thương Nhau Nhé",
             "artists": "Đức Phúc, Thùy Chi",
-            "link": "//zmp3-mp3-s1.zadn.vn/45910e7ddb3932676b28/1643993206699403506?authen=exp=1520245798~acl=/45910e7ddb3932676b28/*~hmac=fa8d5d98f4a51b8ec32147a01f63d0bb",
-            "id": "ZW9A77I0",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/8/6/867007b21bb65ad0c67de8c822704819_1514818500.jpg"
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2018/e/6/e6b2152a21130d9523014726f72132f3.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/8/6/867007b21bb65ad0c67de8c822704819_1514818500.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/45910e7ddb3932676b28/1643993206699403506?authen=exp=1520442033~acl=/45910e7ddb3932676b28/*~hmac=d0d9f8ba40137406064336600b5cfa05"
         },
         {
-            "title": "Thèm",
-            "artists": "Trung Quân Idol",
-            "link": "//zmp3-mp3-s1.zadn.vn/1911f4b922fdcba392ec/844179679975919899?authen=exp=1520246897~acl=/1911f4b922fdcba392ec/*~hmac=ad461d994cb9ffbf4873b9a981c16ea5",
-            "id": "ZW9AFEZA",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/c/6/c6ae65a9568407007fb90138a993365f_1517911553.png"
-        },
-        {
-            "title": "Yêu Chưa Bao Giờ Là Sai",
-            "artists": "ERIK",
-            "link": "//zmp3-mp3-s1.zadn.vn/f5186d98b9dc508209cd/5248224148666182581?authen=exp=1520246637~acl=/f5186d98b9dc508209cd/*~hmac=013ad6e435d2bc8c45002a69dbfeecdf",
-            "id": "ZW8W9CWD",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/9/3/93c91b68709bf04c021f54fc1ea58959_1513131914.jpg"
-        },
-        {
-            "title": "Ngắm Hoa Lệ Rơi",
-            "artists": "Châu Khải Phong",
-            "link": "//zmp3-mp3-s1.zadn.vn/f1350167eb23027d5b32/95656482800705125?authen=exp=1520246827~acl=/f1350167eb23027d5b32/*~hmac=ef275a4d8aef88bbd7f124ab8e49f198",
-            "id": "ZW7AA97A",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/6/9/69f213a075a1ef6b0b042e242c837178_1489986205.png"
-        },
-        {
-            "title": "Tình Đơn Phương (Acoustic Cover)",
-            "artists": "Dương Edward, Tùng Acoustic",
-            "link": "//zmp3-mp3-s1.zadn.vn/2bc144b39ef777a92ee6/3574895072993070020?authen=exp=1520245481~acl=/2bc144b39ef777a92ee6/*~hmac=68ef021add4961c2fe9e957c1f22bbd0",
-            "id": "ZW8IZ07F",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/avatars/3/e/3e114c343f09f59519b2069dc5ab94dc_1504148796.jpg"
-        },
-        {
-            "title": "Ngày Mai Em Đi (Touliver Mix)",
-            "artists": "Touliver, Lê Hiếu, Soobin Hoàng Sơn",
-            "link": "//zmp3-mp3-s1.zadn.vn/ccdf4a779033796d2022/7340335391073080988?authen=exp=1520250708~acl=/ccdf4a779033796d2022/*~hmac=499c1ac0e5dad6378a99c3a15f1b26c6",
-            "id": "ZW80DFC6",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/6/9/695bf88c1edaf82e0bd5e085716e5598_1501654149.jpg"
-        },
-        {
-            "title": "Đừng Nói Yêu Tôi",
-            "artists": "Wendy Thảo",
-            "link": "//zmp3-mp3-s1.zadn.vn/3e6da7ac78e891b6c8f9/3312875816527835878?authen=exp=1520250025~acl=/3e6da7ac78e891b6c8f9/*~hmac=3ffac5b43e457f340b132016c4417b4a",
-            "id": "ZW7FO897",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/e/e/eed5ab746c182c1f6097df117593052f_1493177156.png"
-        },
-        {
-            "title": "Em Ngày Xưa Khác Rồi",
-            "artists": "Hiền Hồ",
-            "link": "//zmp3-mp3-s1.zadn.vn/b3c424ccff8816d64f99/5246490988379510936?authen=exp=1520241379~acl=/b3c424ccff8816d64f99/*~hmac=7096e026165b3cfdc4d4ca5578ea5061",
-            "id": "ZW8WUICD",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/4/f/4f33a5712c26714f0a1e7177d0b4129d_1509608464.jpg"
-        },
-        {
-            "title": "Cùng Anh (VRT Mix)",
-            "artists": "Ngọc Dolil, VRT",
-            "link": "//zmp3-mp3-s1.zadn.vn/2ea6afb27bf692a8cbe7/8941937871845013125?authen=exp=1520240307~acl=/2ea6afb27bf692a8cbe7/*~hmac=ba7701b9dc2e3f341c7d7fc984d6986c",
-            "id": "ZW9A7W0I",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/a/d/ad67a7fbc0b8ad7eac660eb803cdeb21_1514533626.jpg"
-        },
-        {
-            "title": "Buồn Của Em (Buồn Của Anh Cover)",
-            "artists": "Trương Linh Đan",
-            "link": "//zmp3-mp3-s1.zadn.vn/54f683155651bf0fe640/6322504999759720834?authen=exp=1520241488~acl=/54f683155651bf0fe640/*~hmac=5ff9512b94dea6ce4cbba731a0ec1567",
-            "id": "ZW9A788Z",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/c/e/ce36593e00aa2f001c8f08968e3bf637_1514728297.jpg"
-        },
-        {
-            "title": "Thương",
-            "artists": "Karik, Uyên Pím (Bệt Band)",
-            "link": "//zmp3-mp3-s1.zadn.vn/5afa1d86bcc2559c0cd3/1130595455019899268?authen=exp=1520252188~acl=/5afa1d86bcc2559c0cd3/*~hmac=a876c75040322665c8aaf3d95ca6c872",
-            "id": "ZW7O9CIO",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/a/3/a3899970ba81b55deba986ab82ee69d7_1453947783.jpg"
-        },
-        {
-            "title": "Ghen",
-            "artists": "Khắc Hưng, ERIK, MIN",
-            "link": "//zmp3-mp3-s1.zadn.vn/3c8c0971d135386b6124/9159096744558092578?authen=exp=1520239525~acl=/3c8c0971d135386b6124/*~hmac=f956f891ebd1c0b84dcaebcea136b357",
-            "id": "ZW7FC0I7",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/d/0/d05f9b3c87cf7ccda468174b28757489_1495770525.jpg"
-        },
-        {
-            "title": "Yêu Một Người Vô Tâm",
-            "artists": "Bảo Anh",
-            "link": "//zmp3-mp3-s1.zadn.vn/d5874dcdd6893fd76698/5517204188911544620?authen=exp=1520246088~acl=/d5874dcdd6893fd76698/*~hmac=578294b3d1191436c2f87be065041cde",
-            "id": "ZW78UACE",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/6/5/65156425e12485863b4db81da545f314_1476874803.jpg"
-        },
-        {
+            "id": "ZW7898I6",
             "title": "Cho Em Gần Anh Thêm Chút Nữa (Cho Em Gần Anh Thêm Chút Nữa OST)",
             "artists": "Hương Tràm",
-            "link": "//zmp3-mp3-s1.zadn.vn/741e7e1beb5f02015b4e/384440435546464844?authen=exp=1520241407~acl=/741e7e1beb5f02015b4e/*~hmac=b4e95fbae8d154e39ef1946e9c0eb335",
-            "id": "ZW7898I6",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/c/c/cc7ed4169790aa2c71d7c194cb0ee12f_1479986251.jpg"
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2016/11/25/dc1ab5c704abd4e9e5d63b27ada782f3_1075791766.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/c/c/cc7ed4169790aa2c71d7c194cb0ee12f_1479986251.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/741e7e1beb5f02015b4e/384440435546464844?authen=exp=1520440776~acl=/741e7e1beb5f02015b4e/*~hmac=8e30ad61f6650f6dd2605cd24fc4de50"
         },
         {
-            "title": "1234",
-            "artists": "Chi Dân",
-            "link": "//zmp3-mp3-s1.zadn.vn/e7563f83e7c70e9957d6/727637092126384063?authen=exp=1520252414~acl=/e7563f83e7c70e9957d6/*~hmac=027f55863ead66b2df4baf05d5c1dc6f",
-            "id": "ZW7FE0FC",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/6/8/688121b645595c52402a0c6ae56700fd_1496315778.jpg"
+            "id": "ZW8I87UD",
+            "title": "Yêu Em Rất Nhiều",
+            "artists": "Hoàng Tôn",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/10/02/e0eb863b9bdd62d32c01415d1490e0c1_1076377293.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/b/2/b2d7fda219a63962ad3c7a997d8821ee_1506397434.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/4e1dcf2c1568fc36a579/6560157113725050153?authen=exp=1520442566~acl=/4e1dcf2c1568fc36a579/*~hmac=4437ac842a03aee8b9cf0e10e3e00d26"
         },
         {
-            "title": "Thất Tình",
-            "artists": "Trịnh Đình Quang",
-            "link": "//zmp3-mp3-s1.zadn.vn/8832bfbbb6ff5fa106ee/9192542311448291847?authen=exp=1520250650~acl=/8832bfbbb6ff5fa106ee/*~hmac=db05eabba779bf07967c6cd82385a08b",
-            "id": "ZW7W9A9C",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/avatars/8/5/85b4710d31d2806e237269c1063f7358_1462333009.jpg"
+            "id": "ZW7U87BA",
+            "title": "Yêu Vội Vàng",
+            "artists": "Lê Bảo Bình",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/07/24/9e98ad6814f35c1eced2ed13a4a916c1_1075525434.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/a/5/a55db8b18b37cb07be9a4a5f1903cae1_1479465454.png",
+            "link": "//zmp3-mp3-s1.zadn.vn/3edc97530817e149b806/4151012926815339241?authen=exp=1520442730~acl=/3edc97530817e149b806/*~hmac=f9491132c06c7051fb486c6607ed2863"
         },
         {
-            "title": "Anh Là Của Em",
-            "artists": "Karik",
-            "link": "//zmp3-mp3-s1.zadn.vn/7b0509b170f599abc0e4/2575907685505638146?authen=exp=1520241886~acl=/7b0509b170f599abc0e4/*~hmac=bb7c7809d452ff65c8e3f5d69b58b07e",
-            "id": "ZW6FEF9W",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/0/c/0c2b0067691ef5521afcebe2887028dc_1443425336.jpg"
+            "id": "ZW8W777E",
+            "title": "Thấy Là Yêu Thương",
+            "artists": "OnlyC, Lou Hoàng",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/6/a/6af455e5b2104d11edf6e3b30a49de72.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/b/2/b2c0638904fb8f20547dd66f8f18d279_1510887342.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/d536b5e561a188ffd1b0/747385880158281145?authen=exp=1520440525~acl=/d536b5e561a188ffd1b0/*~hmac=befe11a0308671f13d84b7437873d48f"
         },
         {
-            "title": "Chia Tay (Original Version By Hải Âu)",
-            "artists": "Bùi Anh Tuấn",
-            "link": "//zmp3-mp3-s1.zadn.vn/d6ade15e3a1ad3448a0b/3067141731979981036?authen=exp=1520248974~acl=/d6ade15e3a1ad3448a0b/*~hmac=16538a7ba255cf21851112febd7e8d81",
-            "id": "ZW8IAFBD",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/e/4/e4ad98e7656f451b0c9eba0aa03c7ddb_1506072484.jpg"
+            "id": "ZW78U908",
+            "title": "Phía Sau Một Cô Gái",
+            "artists": "Soobin Hoàng Sơn",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/6/3/637a1e78d0118c5e97ac1c7348bbd29f.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/c/b/cbe2dfb3d65dc97c68f983d09bff78a7_1476796126.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/a32e305cab1842461b09/4870257449214198184?authen=exp=1520440483~acl=/a32e305cab1842461b09/*~hmac=e6e27e1549142dc663f5423436fda663"
         },
         {
+            "id": "ZW7AA97A",
+            "title": "Ngắm Hoa Lệ Rơi",
+            "artists": "Châu Khải Phong",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/04/23/e573b4c7d5d6cdb965f38dfaa08eee0d_1075927290.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/6/9/69f213a075a1ef6b0b042e242c837178_1489986205.png",
+            "link": "//zmp3-mp3-s1.zadn.vn/f1350167eb23027d5b32/95656482800705125?authen=exp=1520441152~acl=/f1350167eb23027d5b32/*~hmac=626f24f66872518e201106dac7adb655"
+        },
+        {
+            "id": "ZW9A9ZEO",
+            "title": "Người Từng Thương",
+            "artists": "Chu Bin",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2018/01/22/cc4768b035dab80be74436721c93f215_1078019427.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/b/a/baa1c140842272b7da210330113d5061_1515573121.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/19c5b0a465e08cbed5f1/1677475456338886260?authen=exp=1520441059~acl=/19c5b0a465e08cbed5f1/*~hmac=e36712ab5ef6e0b002edb9d026e33efe"
+        },
+        {
+            "id": "ZW7F9O88",
+            "title": "Kết Thúc Lâu Rồi",
+            "artists": "Lê Bảo Bình",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/12/23/de79846b9fc16d6bc61454eeb9945156_1076249352.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/avatars/d/7/d792e1f248262cea4ff433ba8256d427_1479694390.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/b6304a1b955f7c01254e/2107217537171129512?authen=exp=1520444803~acl=/b6304a1b955f7c01254e/*~hmac=52478bf073a539569a8b29b3944b2e33"
+        },
+        {
+            "id": "ZW79O8DI",
+            "title": "Yêu 5",
+            "artists": "Rhymastic",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/02/27/c419b479d670bc08f9e5ac4153e31751_1075832913.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/b/5/b5aa78aa102467e5648160a4ac93df8e_1486467660.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/3fe01ae2f4a61df844b7/978826610756853978?authen=exp=1520441359~acl=/3fe01ae2f4a61df844b7/*~hmac=27b7ec3f123b854576f24ed6c8a4e8d2"
+        },
+        {
+            "id": "ZW79ZBE8",
+            "title": "Nơi Này Có Anh",
+            "artists": "Sơn Tùng M-TP",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/04/10/437fd8dab336d63566e90d61e2dde4ea_1075841896.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/3/a/3a9e48bc4df7bbde3acea30cc267f609_1487066528.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/d41230d1df9536cb6f84/1181817601640857205?authen=exp=1520440319~acl=/d41230d1df9536cb6f84/*~hmac=73aeee1d0b2901685345be009be6f71c"
+        },
+        {
+            "id": "ZW78E6A9",
+            "title": "Lạ Lùng",
+            "artists": "Vũ.",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/02/27/fddc5fcca62f3ce561f452094ea28d94_1075811881.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/a/8/a8f70ecae845eadbe4495aa99308f3f0_1484296225.png",
+            "link": "//zmp3-mp3-s1.zadn.vn/d3d79e407004995ac015/188965803224885182?authen=exp=1520441417~acl=/d3d79e407004995ac015/*~hmac=cb6502e8f00c72cdc10852596e98012b"
+        },
+        {
+            "id": "ZW7887D6",
+            "title": "Hỏi Thăm Nhau",
+            "artists": "Lê Bảo Bình",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2018/01/22/ca658eb043bdb36eae0cacbb9b00f93e_1075787606.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/a/5/a55db8b18b37cb07be9a4a5f1903cae1_1479465454.png",
+            "link": "//zmp3-mp3-s1.zadn.vn/e92906f793b37aed23a2/3280010726320456534?authen=exp=1520445291~acl=/e92906f793b37aed23a2/*~hmac=645f7f70fc22af014ba94ed70f906255"
+        },
+        {
+            "id": "ZW7FODC9",
+            "title": "Có Em Chờ",
+            "artists": "Min, Mr.A",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/05/26/f76ec532dbc26369ef4794b0660f1630_1076227401.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/f/3/f3ccdd27d2000e3f9255a7e3e2c48800_1493277779.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/3292444e9b0a72542b1b/6792228024536335773?authen=exp=1520442595~acl=/3292444e9b0a72542b1b/*~hmac=5bcfe89a7620d7445fb95288f3462326"
+        },
+        {
+            "id": "ZW9ABZ7B",
             "title": "Lâu Rồi Sao Vẫn Chưa Quên",
             "artists": "Gin Tuấn Kiệt",
-            "link": "//zmp3-mp3-s1.zadn.vn/21bbfc9529d1c08f99c0/5441131960255350591?authen=exp=1520247868~acl=/21bbfc9529d1c08f99c0/*~hmac=78541e523008c958b4a3deb759cd5eb7",
-            "id": "ZW9ABZ7B",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/c/0/c05d5e704fe4912306bc00a6cdf86b2f_1516275576.jpg"
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2018/f/7/f7f5586709f23e4e0c25b2964a73e62b.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/c/0/c05d5e704fe4912306bc00a6cdf86b2f_1516275576.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/21bbfc9529d1c08f99c0/5441131960255350591?authen=exp=1520443241~acl=/21bbfc9529d1c08f99c0/*~hmac=d6d187f28a7906782dd46d507fbe8102"
         },
         {
-            "title": "Em Nguyện Là Mây",
+            "id": "ZW8IAFBD",
+            "title": "Chia Tay (Original Version By Hải Âu)",
+            "artists": "Bùi Anh Tuấn",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/a/9/a957fd02e31b33a2f1fd0e8c05e93aea.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/e/4/e4ad98e7656f451b0c9eba0aa03c7ddb_1506072484.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/d6ade15e3a1ad3448a0b/3067141731979981036?authen=exp=1520432295~acl=/d6ade15e3a1ad3448a0b/*~hmac=27c2320b0be8828691ebbc36535b78e1"
+        },
+        {
+            "id": "ZW7W9A9C",
+            "title": "Thất Tình",
+            "artists": "Trịnh Đình Quang",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2015/2/4/2404307566f89666e5759f94dc9041d2_1075399196.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/avatars/8/5/85b4710d31d2806e237269c1063f7358_1462333009.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/8832bfbbb6ff5fa106ee/9192542311448291847?authen=exp=1520440436~acl=/8832bfbbb6ff5fa106ee/*~hmac=dd14788c9b5d29c5b01babeecb59398e"
+        },
+        {
+            "id": "ZW7FO897",
+            "title": "Đừng Nói Yêu Tôi",
             "artists": "Wendy Thảo",
-            "link": "//zmp3-mp3-s1.zadn.vn/3ed14a8c9ec877962ed9/8359269652695426233?authen=exp=1520244556~acl=/3ed14a8c9ec877962ed9/*~hmac=663c525812cd70f2b9a8a29c9717fbf3",
-            "id": "ZW8WCB9A",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/2/e/2e929a1808834ca69cb5906fce63e72e_1513140079.jpg"
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2018/01/15/e515f1658bd6f347e25890cd79c0ba09_1076226071.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/e/e/eed5ab746c182c1f6097df117593052f_1493177156.png",
+            "link": "//zmp3-mp3-s1.zadn.vn/3e6da7ac78e891b6c8f9/3312875816527835878?authen=exp=1520445224~acl=/3e6da7ac78e891b6c8f9/*~hmac=b1b2619aec94d8bf83fbe8bbabf19bb0"
         },
         {
-            "title": "Chuyến Đi Của Năm (Đi Để Trở Về 2)",
-            "artists": "Soobin Hoàng Sơn",
-            "link": "//zmp3-mp3-s1.zadn.vn/637c919644d2ad8cf4c3/1624570559039363465?authen=exp=1520248643~acl=/637c919644d2ad8cf4c3/*~hmac=c9f13394595df0b97d2bf35ee10abd55",
-            "id": "ZW9A7WAW",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/5/3/531a73c8d39095bfe95abc2bd5881aa7_1514540094.png"
-        },
-        {
-            "title": "Lạc Trôi",
-            "artists": "Sơn Tùng M-TP",
-            "link": "//zmp3-mp3-s1.zadn.vn/58408f9374d79d89c4c6/5263915882515440837?authen=exp=1520249208~acl=/58408f9374d79d89c4c6/*~hmac=a9b4db84556350235dbc00bb704fd233",
-            "id": "ZW78DIEO",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/9/8/98e3677733fe52439823d1b1992d9ae0_1483242323.jpg"
-        },
-        {
-            "title": "Cớ Sao Giờ Lại Chia Xa",
-            "artists": "Bích Phương",
-            "link": "//zmp3-mp3-s1.zadn.vn/87df1116c852210c7843/3729188280310952167?authen=exp=1520240902~acl=/87df1116c852210c7843/*~hmac=0319e7a95251749454345e58e6128cf1",
-            "id": "ZW806AID",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/9/a/9a156337c55bdc47e1f65963c24077df_1499654363.jpg"
-        },
-        {
-            "title": "Vợ Tuyệt Vời Nhất",
-            "artists": "Vũ Duy Khánh",
-            "link": "//zmp3-mp3-s1.zadn.vn/468d131b685f8101d84e/8586189924719305223?authen=exp=1520248830~acl=/468d131b685f8101d84e/*~hmac=aada749358060eed1c8900d67e25f20c",
-            "id": "ZW7WEF0Z",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/5/6/56449711879e488387c2aeb9c0765a24_1476948179.jpg"
-        },
-        {
-            "title": "Giá Như Anh",
-            "artists": "JayKii",
-            "link": "//zmp3-mp3-s1.zadn.vn/7420db140e50e70ebe41/7473295602454374422?authen=exp=1520247978~acl=/7420db140e50e70ebe41/*~hmac=5ab6ce51b6b64094a50e9aedc61fe0ee",
-            "id": "ZW9ABW7W",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/7/8/78938b5d22fccdd0eb4572133c2a48af_1516193625.jpg"
-        },
-        {
-            "title": "Điều Anh Biết",
-            "artists": "Chi Dân",
-            "link": "//zmp3-mp3-s1.zadn.vn/3deabbb020f4c9aa90e5/3542091817737638361?authen=exp=1520252189~acl=/3deabbb020f4c9aa90e5/*~hmac=161a91a779e646f0f11c047b4a5c17ec",
-            "id": "ZW78UD07",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/d/9/d9eb228bd57dc5e770f130fa8faa8ee0_1477036840.jpg"
-        },
-        {
-            "title": "Buồn Của Anh (Masew Mix)",
-            "artists": "Masew, Đạt G, K-ICM",
-            "link": "//zmp3-mp3-s1.zadn.vn/a67fb67b623f8b61d22e/7232145538343963805?authen=exp=1520244540~acl=/a67fb67b623f8b61d22e/*~hmac=d7f362cad74d1da24820e2f7f036eccd",
-            "id": "ZW9A669A",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/0/c/0c2187d0f119c5c8b291b7222dc5d599_1514265433.jpg"
-        },
-        {
-            "title": "Ý Em Sao",
-            "artists": "Kay Trần, Lăng LD",
-            "link": "//zmp3-mp3-s1.zadn.vn/8deb7c71aa35436b1a24/5570450535854963538?authen=exp=1520247744~acl=/8deb7c71aa35436b1a24/*~hmac=bbd1b5e7d13aeb4601f86e4b8032e3d1",
-            "id": "ZW9BW6WB",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/f/3/f30a202d97fcb737a80ade314ebdb8e0_1519540242.png"
-        },
-        {
-            "title": "Cạn Cả Nước Mắt",
-            "artists": "Karik, Thái Trinh",
-            "link": "//zmp3-mp3-s1.zadn.vn/8abc2e2d896960373978/3799330207337094985?authen=exp=1520240473~acl=/8abc2e2d896960373978/*~hmac=1e7391a5f6b7c6da95590befb5cc9ff4",
-            "id": "ZW7U6FOD",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/f/f/ffaa21f0110ad661fe0741b5acb2bf10_1463623700.jpg"
-        },
-        {
-            "title": "Em Ơi",
-            "artists": "Vũ Cát Tường, Hakoota Dũng Hà",
-            "link": "//zmp3-mp3-s1.zadn.vn/9ba930badefe37a06eef/2238521632086674847?authen=exp=1520240557~acl=/9ba930badefe37a06eef/*~hmac=a894d1690051fe98b4954b8bda74c4cd",
-            "id": "ZW79UZW8",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/5/3/530977cddceefa88d9b0a7ea706f8940_1486698155.jpg"
-        },
-        {
-            "title": "Ngày Mai Sẽ Khác",
-            "artists": "Lê Hiếu",
-            "link": "//zmp3-mp3-s1.zadn.vn/d0b682b05cf4b5aaece5/3876197819772876415?authen=exp=1520252189~acl=/d0b682b05cf4b5aaece5/*~hmac=8436c70fcaee7680a6ca40547d7990e9",
-            "id": "ZW7FIZB6",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/f/5/f599ba62b60cdf605d6d91e58a21b61b_1492569519.jpg"
-        },
-        {
-            "title": "Talk To Me (Có Nên Dừng Lại?)",
-            "artists": "Chi Pu",
-            "link": "//zmp3-mp3-s1.zadn.vn/b1405648820c6b52321d/1079429225112795225?authen=exp=1520248188~acl=/b1405648820c6b52321d/*~hmac=c54d5695f52eec6dcb985d55b6e7fecc",
-            "id": "ZW9AZBF9",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/d/5/d5cbb0c38968891e70551b370c8106d1_1513848565.jpg"
-        },
-        {
-            "title": "Ở Trong Thành Phố (Masew Mix)",
-            "artists": "B Ray,Masew",
-            "link": "//zmp3-mp3-s1.zadn.vn/c8e5dac60e82e7dcbe93/8605910544569307137?authen=exp=1520245568~acl=/c8e5dac60e82e7dcbe93/*~hmac=cedd0113f26f6674d4fc2b151ae370ab",
-            "id": "ZW8WD9B8",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/3/f/3fb2db6cccf4a23383383394b28b2b31_1513592477.jpg"
-        },
-        {
-            "title": "Đi Để Trở Về",
-            "artists": "Soobin Hoàng Sơn",
-            "link": "//zmp3-mp3-s1.zadn.vn/20a30487ddc3349d6dd2/6219653155068498722?authen=exp=1520250636~acl=/20a30487ddc3349d6dd2/*~hmac=2382d2a843068827915ebcd7928f9ad4",
-            "id": "ZW78DOZW",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/7/9/799e9e176dcb79e3406d48930ce108cf_1483416113.jpg"
-        },
-        {
-            "title": "Anh Thế Giới Và Em",
-            "artists": "Hương Tràm",
-            "link": "//zmp3-mp3-s1.zadn.vn/8739deea06aeeff0b6bf/1243431489925204133?authen=exp=1520241149~acl=/8739deea06aeeff0b6bf/*~hmac=88a7f816a4eeccee2664f88c67b4b521",
-            "id": "ZW7FDBA8",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/c/2/c2522eb472fd5a39518ff02fdd8590a9_1496197004.jpg"
-        },
-        {
-            "title": "Gương Mặt Lạ Lẫm",
-            "artists": "Mr Siro",
-            "link": "//zmp3-mp3-s1.zadn.vn/357ceb7172359b6bc224/4706531562149718908?authen=exp=1520248313~acl=/357ceb7172359b6bc224/*~hmac=a90d06aaeb5b1ec3631d5ae9fc357136",
-            "id": "ZW77FE98",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/9/2/9232c4c99c30f665e9326c8bbbcebc0e_1473419051.jpg"
-        },
-        {
-            "title": "Sau Tất Cả",
-            "artists": "ERIK ST.319",
-            "link": "//zmp3-mp3-s1.zadn.vn/8d481535b4715d2f0460/105509056746938253?authen=exp=1520248453~acl=/8d481535b4715d2f0460/*~hmac=2c20cb60dad68e21fd1851ceb04e5789",
-            "id": "ZW7O777O",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/5/5/55a2e33a5d4d6a70f5144181c28eacb0_1452855672.jpg"
-        },
-        {
-            "title": "Không Sao Đâu",
-            "artists": "Trịnh Thăng Bình",
-            "link": "//zmp3-mp3-s1.zadn.vn/87d59a904fd4a68affc5/4750824408720389026?authen=exp=1520250956~acl=/87d59a904fd4a68affc5/*~hmac=f472493010812eee4b67efd1db18f01a",
-            "id": "ZW9AA0AC",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/6/f/6fd650c3b4dbebf7e97d4b490b81e6d5_1515768832.jpg"
-        },
-        {
+            "id": "ZW8IEDUU",
             "title": "Đi Rồi Mới Thương",
             "artists": "Võ Kiều Vân",
-            "link": "//zmp3-mp3-s1.zadn.vn/f80c50978bd3628d3bc2/6071975903622858074?authen=exp=1520252702~acl=/f80c50978bd3628d3bc2/*~hmac=4e6455cfa35c386e0751b22c613abb85",
-            "id": "ZW8IEDUU",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/b/6/b6dedc131c90ac3cf9b0b9cde0b7caf2_1507626013.jpg"
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/4/f/4f5e70b5e0b7a6f9a317fe5decbfba6b.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/b/6/b6dedc131c90ac3cf9b0b9cde0b7caf2_1507626013.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/f80c50978bd3628d3bc2/6071975903622858074?authen=exp=1520433139~acl=/f80c50978bd3628d3bc2/*~hmac=5cd048f4c80026cdfc8b7d92f4fe036b"
         },
         {
-            "title": "Baby I Told You",
-            "artists": "MONSTAR",
-            "link": "//zmp3-mp3-s1.zadn.vn/7fcfd4240260eb3eb271/5514198165755367212?authen=exp=1520240650~acl=/7fcfd4240260eb3eb271/*~hmac=5fd2d845a3f6d8c0022acb8cfea1cc6a",
-            "id": "ZW9ADE89",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/a/b/ab854c8847aae6fb13135a593bc4d038_1517194951.jpg"
+            "id": "ZW8WD9B8",
+            "title": "Ở Trong Thành Phố (Masew Mix)",
+            "artists": "B Ray,Masew",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/12/23/b514a9759c6bd7ffcd1c066b3294c5ad_1076463928.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/3/f/3fb2db6cccf4a23383383394b28b2b31_1513592477.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/c8e5dac60e82e7dcbe93/8605910544569307137?authen=exp=1520441884~acl=/c8e5dac60e82e7dcbe93/*~hmac=cf0c875ef852802fe097aa56caee6fbd"
         },
         {
-            "title": "Ngày Khác Lạ",
-            "artists": "Đen, Giang Phạm, Triple D (3D)",
-            "link": "//zmp3-mp3-s1.zadn.vn/9465c3e015a4fcfaa5b5/2470534001039426272?authen=exp=1520248490~acl=/9465c3e015a4fcfaa5b5/*~hmac=6b141597443b99ef1d1da11754275fde",
-            "id": "ZW9BWW9Z",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/f/9/f9aef1614a2be6d460222086c955b90b_1519434098.png"
+            "id": "ZW8WCB9A",
+            "title": "Em Nguyện Là Mây",
+            "artists": "Wendy Thảo",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/12/23/5f067a7710a4af68e0a5b97894551e24_1076460314.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/2/e/2e929a1808834ca69cb5906fce63e72e_1513140079.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/3ed14a8c9ec877962ed9/8359269652695426233?authen=exp=1520445011~acl=/3ed14a8c9ec877962ed9/*~hmac=770e1cbe176c0214c0dbcac24e91c4ea"
         },
         {
-            "title": "Vài Tháng Sau",
-            "artists": "JayKii",
-            "link": "//zmp3-mp3-s1.zadn.vn/897f0e90dad4338a6ac5/3584574700957171723?authen=exp=1520242919~acl=/897f0e90dad4338a6ac5/*~hmac=dfbf408400a97589c6ddd64e5304b06e",
-            "id": "ZW8WZCEI",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/e/4/e4ad98e7656f451b0c9eba0aa03c7ddb_1510309293.jpg"
+            "id": "ZW7FIZB6",
+            "title": "Ngày Mai Sẽ Khác",
+            "artists": "Lê Hiếu",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/04/23/92c4488286ec342b4ee5da58ebdf0e3d_1076217142.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/f/5/f599ba62b60cdf605d6d91e58a21b61b_1492569519.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/d0b682b05cf4b5aaece5/3876197819772876415?authen=exp=1520440954~acl=/d0b682b05cf4b5aaece5/*~hmac=b15654842decf2d3e4c559334c148188"
         },
         {
-            "title": "Đổi Thay",
-            "artists": "Hồ Quang Hiếu",
-            "link": "//zmp3-mp3-s1.zadn.vn/062483671a23f37daa32/9207734067810133046?authen=exp=1520247642~acl=/062483671a23f37daa32/*~hmac=e3245b6ab6b049a0195cba2152247106",
-            "id": "ZW77FUEA",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/c/5/c52f65959e8b0c2aafa7e5ef06f57f17_1471919089.jpg"
+            "id": "ZW806AID",
+            "title": "Cớ Sao Giờ Lại Chia Xa",
+            "artists": "Bích Phương",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/07/24/bdf214c76d3c358d37549ae812ed0667_1076304285.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/9/a/9a156337c55bdc47e1f65963c24077df_1499654363.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/87df1116c852210c7843/3729188280310952167?authen=exp=1520443408~acl=/87df1116c852210c7843/*~hmac=e8b89ec48299ffacc2815e5af3c5bb49"
         },
         {
-            "title": "Có Anh Ở Đây Rồi",
-            "artists": "Anh Quân Idol",
-            "link": "//zmp3-mp3-s1.zadn.vn/2421b299bbdd52830bcc/3372389553117581895?authen=exp=1520248565~acl=/2421b299bbdd52830bcc/*~hmac=0bcc945fa267078af3642c60da0806bb",
-            "id": "ZW6BCBIE",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/f/5/f5abf3219ac4b6d45c80c688771f873b_1399444348.jpg"
+            "id": "ZW78UD07",
+            "title": "Điều Anh Biết",
+            "artists": "Chi Dân",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/01/04/b840ad8d82633a298a2b8386b7cdd5a5_1075772551.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/d/9/d9eb228bd57dc5e770f130fa8faa8ee0_1477036840.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/3deabbb020f4c9aa90e5/3542091817737638361?authen=exp=1520440641~acl=/3deabbb020f4c9aa90e5/*~hmac=8d90217b94a14873419cc96944e97a8e"
         },
         {
-            "title": "Tớ Thích Cậu",
-            "artists": "Han Sara",
-            "link": "//zmp3-mp3-s1.zadn.vn/ed6a85b15ff5b6abefe4/3402857553247889715?authen=exp=1520252235~acl=/ed6a85b15ff5b6abefe4/*~hmac=ace4c812f8f370499748155f2e8f070a",
-            "id": "ZW8IIUCB",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/d/c/dca7dbd284a9550ce0f16f5d0a7bab4f_1502787568.jpg"
+            "id": "ZW9A669A",
+            "title": "Buồn Của Anh (Masew Mix)",
+            "artists": "Masew, Đạt G, K-ICM",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/8/9/8986b6ebc49dea0718dbfe9f1c0c665f.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/0/c/0c2187d0f119c5c8b291b7222dc5d599_1514265433.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/a67fb67b623f8b61d22e/7232145538343963805?authen=exp=1520440661~acl=/a67fb67b623f8b61d22e/*~hmac=b75a6468316bd12c0df3bd44eb676d74"
         },
         {
-            "title": "Anh Đã Quen Với Cô Đơn",
-            "artists": "Soobin Hoàng Sơn",
-            "link": "//zmp3-mp3-s1.zadn.vn/b7551701ff45161b4f54/2946979717513932654?authen=exp=1520248935~acl=/b7551701ff45161b4f54/*~hmac=fe97bfbe2c3acf2f02d2e33ba106d953",
-            "id": "ZW79FF97",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/a/b/ab44498b5b432879428719390baf1180_1490064587.jpg"
+            "id": "ZW79UZW8",
+            "title": "Em Ơi",
+            "artists": "Vũ Cát Tường, Hakoota Dũng Hà",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/02/27/971657b2f0b31e4cb3012da1dfdc17c6_1075836072.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/5/3/530977cddceefa88d9b0a7ea706f8940_1486698155.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/9ba930badefe37a06eef/2238521632086674847?authen=exp=1520431300~acl=/9ba930badefe37a06eef/*~hmac=6c19c9780ca0252f21f4b475a3246435"
         },
         {
+            "id": "ZW8WZ799",
             "title": "Thương",
             "artists": "Quốc Thiên",
-            "link": "//zmp3-mp3-s1.zadn.vn/a365c4711f35f66baf24/1868314745346093984?authen=exp=1520240782~acl=/a365c4711f35f66baf24/*~hmac=3657b3dde52722fedda8bb12980ec69a",
-            "id": "ZW8WZ799",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/d/d/ddeb3089b0db18448d5772f946b1c5b4_1510198011.jpg"
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/12/23/7681309cdabea4c62224a1fda6d837ba_1076430617.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/d/d/ddeb3089b0db18448d5772f946b1c5b4_1510198011.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/a365c4711f35f66baf24/1868314745346093984?authen=exp=1520442694~acl=/a365c4711f35f66baf24/*~hmac=104d746ec8ce9863300fac4495809043"
         },
         {
-            "title": "Em Không Là Duy Nhất",
-            "artists": "Tóc Tiên",
-            "link": "//zmp3-mp3-s1.zadn.vn/ae6d5f37b073592d0062/2746922818588670636?authen=exp=1520245959~acl=/ae6d5f37b073592d0062/*~hmac=1905e86f7334dd042e9f95ac40e649b4",
-            "id": "ZW79ABDE",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/1/6/1648b6e7471b456f8aa2f9f19c93e5be_1488428433.jpg"
+            "id": "ZW7WEF0Z",
+            "title": "Vợ Tuyệt Vời Nhất",
+            "artists": "Vũ Duy Khánh",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2015/7/b/7be6e2bea1d840e7d040a3314ba88d71_1075420805.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/5/6/56449711879e488387c2aeb9c0765a24_1476948179.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/468d131b685f8101d84e/8586189924719305223?authen=exp=1520440624~acl=/468d131b685f8101d84e/*~hmac=22074e7cffb0267db1e59ba8be8b5543"
         },
         {
+            "id": "ZW7U6FOD",
+            "title": "Cạn Cả Nước Mắt",
+            "artists": "Karik, Thái Trinh",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/01/05/ed78954aa1915960064e1fb971f4eb9c_1075519165.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/f/f/ffaa21f0110ad661fe0741b5acb2bf10_1463623700.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/8abc2e2d896960373978/3799330207337094985?authen=exp=1520442298~acl=/8abc2e2d896960373978/*~hmac=f64beafc82ff3b175b7e9c2bb5aba80a"
+        },
+        {
+            "id": "ZW78DOZW",
+            "title": "Đi Để Trở Về",
+            "artists": "Soobin Hoàng Sơn",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/01/12/d2bbaaa363ff08017cdb45834c46cc33_1075806930.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/7/9/799e9e176dcb79e3406d48930ce108cf_1483416113.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/20a30487ddc3349d6dd2/6219653155068498722?authen=exp=1520441747~acl=/20a30487ddc3349d6dd2/*~hmac=4ec4e2f732407655784f9bb3eb4e5fdf"
+        },
+        {
+            "id": "ZW7O777O",
+            "title": "Sau Tất Cả",
+            "artists": "ERIK ST.319",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2016/8/d/8d1ef658c5f0a05f503d27368b2195a8_1075455731.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/5/5/55a2e33a5d4d6a70f5144181c28eacb0_1452855672.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/8d481535b4715d2f0460/105509056746938253?authen=exp=1520440271~acl=/8d481535b4715d2f0460/*~hmac=55ee276dfa4dd46527c40fa829ff8a4d"
+        },
+        {
+            "id": "ZW8IIUCB",
+            "title": "Tớ Thích Cậu",
+            "artists": "Han Sara",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/08/24/8d4033abf21c0e86b95d43a18e1e2c7b_1076347979.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/d/c/dca7dbd284a9550ce0f16f5d0a7bab4f_1502787568.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/ed6a85b15ff5b6abefe4/3402857553247889715?authen=exp=1520443668~acl=/ed6a85b15ff5b6abefe4/*~hmac=c0e38ff12153ac08133b48b435a8b69a"
+        },
+        {
+            "id": "ZW8IUWCF",
             "title": "Đồi Hoa Mặt Trời",
             "artists": "Hoàng Yến Chibi",
-            "link": "//zmp3-mp3-s1.zadn.vn/08b828d8f29c1bc2428d/4962960674228842646?authen=exp=1520247672~acl=/08b828d8f29c1bc2428d/*~hmac=421e764bd9173fa58aa01f8263b57447",
-            "id": "ZW8IUWCF",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/8/1/812749e1a307f38fd0a88b54bea55ff2_1503997546.png"
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/09/11/46d2d0d3a6f691bdd6e1d593d8f856d9_1076359759.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/8/1/812749e1a307f38fd0a88b54bea55ff2_1503997546.png",
+            "link": "//zmp3-mp3-s1.zadn.vn/08b828d8f29c1bc2428d/4962960674228842646?authen=exp=1520442476~acl=/08b828d8f29c1bc2428d/*~hmac=40817aa69ea0f0a2541780253e117c72"
         },
         {
-            "title": "Cô Gái M52",
-            "artists": "Huy, Tùng Viu",
-            "link": "//zmp3-mp3-s1.zadn.vn/8661cfed19a9f0f7a9b8/2673128015199042442?authen=exp=1520248720~acl=/8661cfed19a9f0f7a9b8/*~hmac=6854e8373c03787b6aefdf3fb1d08564",
-            "id": "ZW9BID0A",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/f/f/ff44d05771e686143a49b6a73dd844bb_1519265212.jpg"
+            "id": "ZW7FDBA8",
+            "title": "Anh Thế Giới Và Em",
+            "artists": "Hương Tràm",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/06/22/6e94f3972af64b782027b54da522c12f_1076267816.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/c/2/c2522eb472fd5a39518ff02fdd8590a9_1496197004.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/8739deea06aeeff0b6bf/1243431489925204133?authen=exp=1520442338~acl=/8739deea06aeeff0b6bf/*~hmac=190d78de303fee9ac61de73ab9a54976"
         },
         {
-            "title": "Nếu Em Còn Tồn Tại",
-            "artists": "Trịnh Đình Quang",
-            "link": "//zmp3-mp3-s1.zadn.vn/0ae73c8247c6ae98f7d7/2933961182305321106?authen=exp=1520243206~acl=/0ae73c8247c6ae98f7d7/*~hmac=a30e2d36b992b8af5abfca31fb07f3ac",
-            "id": "ZW7WFACA",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/avatars/8/5/85b4710d31d2806e237269c1063f7358_1462333009.jpg"
-        },
-        {
-            "title": "Lắng Nghe Nước Mắt",
-            "artists": "Mr Siro",
-            "link": "//zmp3-mp3-s1.zadn.vn/29923f67b823517d0832/1668834566220689309?authen=exp=1520243747~acl=/29923f67b823517d0832/*~hmac=02c140d8eb037347da63b1aec327dd14",
-            "id": "ZW6W8W9E",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/8/6/8655400b95bb6416d07e8221567fa10f_1349062992.jpg"
-        },
-        {
-            "title": "Không Thể Yêu Ai Được Nữa",
-            "artists": "Gin Tuấn Kiệt",
-            "link": "//zmp3-mp3-s1.zadn.vn/5c77f1bd28f9c1a798e8/1142754960564611348?authen=exp=1520243201~acl=/5c77f1bd28f9c1a798e8/*~hmac=b2adce6dee0f1340b66314f4d73aa123",
-            "id": "ZW8069UW",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/2/2/22506e857bc12ab12736b34f18b4f577_1500517132.jpg"
-        },
-        {
+            "id": "ZW9B0ZDA",
             "title": "Thì Em Vẫn Thế",
             "artists": "Tóc Tiên",
-            "link": "//zmp3-mp3-s1.zadn.vn/1c0816adc0e929b770f8/8340569255846823016?authen=exp=1520248777~acl=/1c0816adc0e929b770f8/*~hmac=b257e659e7320b03f68dd0e11e2bdee9",
-            "id": "ZW9B0ZDA",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/e/4/e4ad98e7656f451b0c9eba0aa03c7ddb_1518169106.jpg"
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2018/2/b/2b32d209ef865522271d5e9a1402f13b.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/e/4/e4ad98e7656f451b0c9eba0aa03c7ddb_1518169106.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/1c0816adc0e929b770f8/8340569255846823016?authen=exp=1520441474~acl=/1c0816adc0e929b770f8/*~hmac=2ccb41ab8085f95508934424543c8efb"
         },
         {
-            "title": "Trái Tim Em Cũng Biết Đau",
+            "id": "ZW9BOWIF",
+            "title": "Chàng Trai Đang Thất Tình",
+            "artists": "Đạt G, Binz",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2018/6/7/67367c530fc8a391b9626befe8793dd3.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/avatars/c/5/c5c7d43a4c72761be22c07e3db01cd0e_1511498945.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/9f08ef613925d07b8934/7702308422271367035?authen=exp=1520445225~acl=/9f08ef613925d07b8934/*~hmac=ba044a7af9d13412b9df2aa9649e0fa3"
+        },
+        {
+            "id": "ZW7WFACA",
+            "title": "Nếu Em Còn Tồn Tại",
+            "artists": "Trịnh Đình Quang",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2015/a/7/a7c94ea7dcaa7ca921d848cce12e9c81_1075423818.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/avatars/8/5/85b4710d31d2806e237269c1063f7358_1462333009.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/0ae73c8247c6ae98f7d7/2933961182305321106?authen=exp=1520440505~acl=/0ae73c8247c6ae98f7d7/*~hmac=099851beb04aa80802d2d4ea77b0b005"
+        },
+        {
+            "id": "ZW6W8W9E",
+            "title": "Lắng Nghe Nước Mắt",
+            "artists": "Mr Siro",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2015/c/e/ce4ed883b96af231389e973476de2a4f_1074344478.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/8/6/8655400b95bb6416d07e8221567fa10f_1349062992.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/29923f67b823517d0832/1668834566220689309?authen=exp=1520440345~acl=/29923f67b823517d0832/*~hmac=d4bc206441aa69f76ce27be642daa4e8"
+        },
+        {
+            "id": "ZW8WZCEI",
+            "title": "Vài Tháng Sau",
+            "artists": "JayKii",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/0/c/0c6b39fc2fc6b6633cd740a6aaf66dda.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/e/4/e4ad98e7656f451b0c9eba0aa03c7ddb_1510309293.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/897f0e90dad4338a6ac5/3584574700957171723?authen=exp=1520443245~acl=/897f0e90dad4338a6ac5/*~hmac=bfad7503d50c9b4242229648d8757e90"
+        },
+        {
+            "id": "ZW77FE98",
+            "title": "Gương Mặt Lạ Lẫm",
+            "artists": "Mr Siro",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2016/e/5/e578e808800f550a5866d246d9b9b4e3.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/9/2/9232c4c99c30f665e9326c8bbbcebc0e_1473419051.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/357ceb7172359b6bc224/4706531562149718908?authen=exp=1520441694~acl=/357ceb7172359b6bc224/*~hmac=9d2ec6c92d9723feabb3dd3a0bea1d96"
+        },
+        {
+            "id": "ZW79ABDE",
+            "title": "Em Không Là Duy Nhất",
+            "artists": "Tóc Tiên",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/04/10/701a73f0b14538f78b9671fdb15e3019_1075862366.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/1/6/1648b6e7471b456f8aa2f9f19c93e5be_1488428433.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/ae6d5f37b073592d0062/2746922818588670636?authen=exp=1520441622~acl=/ae6d5f37b073592d0062/*~hmac=dfe74ac3ac6c8cb5370e1c5b50df7a3e"
+        },
+        {
+            "id": "ZW78UACE",
+            "title": "Yêu Một Người Vô Tâm",
             "artists": "Bảo Anh",
-            "link": "//zmp3-mp3-s1.zadn.vn/257594453701de5f8710/2082399210462049795?authen=exp=1520245586~acl=/257594453701de5f8710/*~hmac=edb22ea9016873c798bd281e00aa425d",
-            "id": "ZW7U86AD",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/e/c/ec946d6ef3dc5ee33221a7dcce05755c_1465133772.jpg"
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/01/04/ab4d000eeff4cc096a38d37b542929ca_1075771982.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/6/5/65156425e12485863b4db81da545f314_1476874803.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/d5874dcdd6893fd76698/5517204188911544620?authen=exp=1520441305~acl=/d5874dcdd6893fd76698/*~hmac=84f46a048468063e14774aba097659fd"
         },
         {
+            "id": "ZW9BWW9Z",
+            "title": "Ngày Khác Lạ",
+            "artists": "Đen, Giang Phạm, Triple D (3D)",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2018/03/05/20fe60fbe2731cdeca51cb86f3fc06ba_1078055445.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/f/9/f9aef1614a2be6d460222086c955b90b_1519434098.png",
+            "link": "//zmp3-mp3-s1.zadn.vn/9465c3e015a4fcfaa5b5/2470534001039426272?authen=exp=1520442275~acl=/9465c3e015a4fcfaa5b5/*~hmac=dc61aadc873bdc891aff1903daf8ac92"
+        },
+        {
+            "id": "ZW7O9CIO",
+            "title": "Thương",
+            "artists": "Karik, Uyên Pím (Bệt Band)",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2016/e/5/e5479fa37a4d99f987cd0fa29ccabfed_1075465107.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/a/3/a3899970ba81b55deba986ab82ee69d7_1453947783.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/5afa1d86bcc2559c0cd3/1130595455019899268?authen=exp=1520441407~acl=/5afa1d86bcc2559c0cd3/*~hmac=f45fbfaaa6719df37e1c197b2a67526b"
+        },
+        {
+            "id": "ZW9BID0A",
+            "title": "Cô Gái M52",
+            "artists": "Huy, Tùng Viu",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2018/03/05/56f7e87dba9fcf8d8471ccec9c406fcf_1078054026.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/f/f/ff44d05771e686143a49b6a73dd844bb_1519265212.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/8661cfed19a9f0f7a9b8/2673128015199042442?authen=exp=1520440705~acl=/8661cfed19a9f0f7a9b8/*~hmac=0e08d4037e61325b97d0acbeca31f286"
+        },
+        {
+            "id": "ZW80DFC6",
+            "title": "Ngày Mai Em Đi (Touliver Mix)",
+            "artists": "Touliver, Lê Hiếu, Soobin Hoàng Sơn",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/08/24/00bc4f88f8d329131a3f5700c4e65dbc_1076334406.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/6/9/695bf88c1edaf82e0bd5e085716e5598_1501654149.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/ccdf4a779033796d2022/7340335391073080988?authen=exp=1520443747~acl=/ccdf4a779033796d2022/*~hmac=fd577f9372257dcff6b249b70e86c58d"
+        },
+        {
+            "id": "ZW9AA0AC",
+            "title": "Không Sao Đâu",
+            "artists": "Trịnh Thăng Bình",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2018/01/22/33e2f3c336d1f0acf97b41c5d8e960dc_1078022188.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/6/f/6fd650c3b4dbebf7e97d4b490b81e6d5_1515768832.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/87d59a904fd4a68affc5/4750824408720389026?authen=exp=1520443205~acl=/87d59a904fd4a68affc5/*~hmac=31400b9b4ebbf698c07d2e32a25f4046"
+        },
+        {
+            "id": "ZW9ABW7W",
+            "title": "Giá Như Anh",
+            "artists": "JayKii",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2018/b/9/b9b592cbc548fe0b0000e12b2ad00c3d.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/7/8/78938b5d22fccdd0eb4572133c2a48af_1516193625.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/7420db140e50e70ebe41/7473295602454374422?authen=exp=1520445224~acl=/7420db140e50e70ebe41/*~hmac=60eb0a425ff253074fc7f2d20e84d3fe"
+        },
+        {
+            "id": "ZW8WUICD",
+            "title": "Em Ngày Xưa Khác Rồi",
+            "artists": "Hiền Hồ",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/1/9/19673967fae93c21f58b146a295e3e79.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/4/f/4f33a5712c26714f0a1e7177d0b4129d_1509608464.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/b3c424ccff8816d64f99/5246490988379510936?authen=exp=1520431524~acl=/b3c424ccff8816d64f99/*~hmac=d6d6d248a5d765712a1c0ee23a245acf"
+        },
+        {
+            "id": "ZW6FEF9W",
+            "title": "Anh Là Của Em",
+            "artists": "Karik",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2015/4/b/4bd0e1d71231a7d9563214c5227a3ab8_1075224338.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/0/c/0c2b0067691ef5521afcebe2887028dc_1443425336.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/7b0509b170f599abc0e4/2575907685505638146?authen=exp=1520441422~acl=/7b0509b170f599abc0e4/*~hmac=0f36deb6e89af29dd75bc1fd158ab818"
+        },
+        {
+            "id": "ZW6BCBIE",
+            "title": "Có Anh Ở Đây Rồi",
+            "artists": "Anh Quân Idol",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/a/0/a01f6262976da42b1f74fe3aea1ef147.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/f/5/f5abf3219ac4b6d45c80c688771f873b_1399444348.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/2421b299bbdd52830bcc/3372389553117581895?authen=exp=1520440780~acl=/2421b299bbdd52830bcc/*~hmac=ce8debbff3a7c5c93999e15e5a7492b9"
+        },
+        {
+            "id": "ZW78DIEO",
+            "title": "Lạc Trôi",
+            "artists": "Sơn Tùng M-TP",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/01/12/34b2eb8b4e60aac199e8a4ed17b93514_1075806563.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/9/8/98e3677733fe52439823d1b1992d9ae0_1483242323.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/58408f9374d79d89c4c6/5263915882515440837?authen=exp=1520443779~acl=/58408f9374d79d89c4c6/*~hmac=d4217be199793aa6ae3c4babad1508b9"
+        },
+        {
+            "id": "ZW8WUD6W",
             "title": "Em Thật Là Ngốc",
             "artists": "Gia Huy",
-            "link": "//zmp3-mp3-s1.zadn.vn/5bcb6ad1b19558cb0184/780367631468441727?authen=exp=1520247361~acl=/5bcb6ad1b19558cb0184/*~hmac=205bfddcb6d5cd371f67e9fb273d66e6",
-            "id": "ZW8WUD6W",
-            "thumb": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/8/4/8453489e103baa047601c23cbb899991_1509939471.jpg"
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/11/24/1ebfd85b35ad38ef698e4c2f37a94f06_1076428002.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/8/4/8453489e103baa047601c23cbb899991_1509939471.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/5bcb6ad1b19558cb0184/780367631468441727?authen=exp=1520443779~acl=/5bcb6ad1b19558cb0184/*~hmac=17de7871706a5f90a9b1aeff570ac74a"
+        },
+        {
+            "id": "ZW8W9CWD",
+            "title": "Yêu Chưa Bao Giờ Là Sai",
+            "artists": "ERIK",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/1/4/14302707481b2b57522d7e8d5e2b3010.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/9/3/93c91b68709bf04c021f54fc1ea58959_1513131914.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/f5186d98b9dc508209cd/5248224148666182581?authen=exp=1520441312~acl=/f5186d98b9dc508209cd/*~hmac=f2dee0fae0a6ab3dc91869c6cd8d37ad"
+        },
+        {
+            "id": "ZW7FC0I7",
+            "title": "Ghen",
+            "artists": "Khắc Hưng, ERIK, MIN",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/06/22/ff90524c4fa1bf4b9f8805f4c6c04e75_1076260759.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/d/0/d05f9b3c87cf7ccda468174b28757489_1495770525.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/3c8c0971d135386b6124/9159096744558092578?authen=exp=1520445292~acl=/3c8c0971d135386b6124/*~hmac=059d3e0c175169602c95ceb73da90058"
+        },
+        {
+            "id": "ZW9AFEZA",
+            "title": "Thèm",
+            "artists": "Trung Quân Idol",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2018/3/5/359e86a3c4a768038d1acdd0377b1fdc.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/c/6/c6ae65a9568407007fb90138a993365f_1517911553.png",
+            "link": "//zmp3-mp3-s1.zadn.vn/1911f4b922fdcba392ec/844179679975919899?authen=exp=1520441686~acl=/1911f4b922fdcba392ec/*~hmac=6688c3e505a1247b71e15eee2f4dc3a7"
+        },
+        {
+            "id": "ZW7U86AD",
+            "title": "Trái Tim Em Cũng Biết Đau",
+            "artists": "Bảo Anh",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/01/05/2400bb11c09b788137bf291f6e41d3c0_1075525165.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/e/c/ec946d6ef3dc5ee33221a7dcce05755c_1465133772.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/257594453701de5f8710/2082399210462049795?authen=exp=1520440501~acl=/257594453701de5f8710/*~hmac=7afc181bd412323e40b6f1c01e9f5eba"
+        },
+        {
+            "id": "ZW7FE0FC",
+            "title": "1234",
+            "artists": "Chi Dân",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/06/22/ba5c63a436f470ec4637ffeb77aff1fb_1076269180.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/6/8/688121b645595c52402a0c6ae56700fd_1496315778.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/e7563f83e7c70e9957d6/727637092126384063?authen=exp=1520432963~acl=/e7563f83e7c70e9957d6/*~hmac=5e156c6ca1e45af7b6366a5633a06592"
+        },
+        {
+            "id": "ZW9AZBF9",
+            "title": "Talk To Me (Có Nên Dừng Lại?)",
+            "artists": "Chi Pu",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/6/f/6f902c54eff02dd1c1ace7ed9f498096.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/d/5/d5cbb0c38968891e70551b370c8106d1_1513848565.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/b1405648820c6b52321d/1079429225112795225?authen=exp=1520441348~acl=/b1405648820c6b52321d/*~hmac=facdaa341c2a5d7d8432d08cbab8e115"
+        },
+        {
+            "id": "ZW9BOIUC",
+            "title": "Gửi Người Yêu Tương Lai",
+            "artists": "Yến Lê",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2018/2/f/2f5be7e7d9ab5d8f201267b16d0b0e01.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/d/7/d70c534599c7cff0a49e35e7827fed2c_1519808665.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/58738018565cbf02e64d/1211975486358758361?authen=exp=1520440819~acl=/58738018565cbf02e64d/*~hmac=0ceb669ed97154301fda6d71e44e5225"
+        },
+        {
+            "id": "ZW8IZ07F",
+            "title": "Tình Đơn Phương (Acoustic Cover)",
+            "artists": "Dương Edward, Tùng Acoustic",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/6/5/656ac9f5889ffa798fa6a1ce2a7cc864.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/avatars/3/e/3e114c343f09f59519b2069dc5ab94dc_1504148796.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/2bc144b39ef777a92ee6/3574895072993070020?authen=exp=1520443397~acl=/2bc144b39ef777a92ee6/*~hmac=eb6f2251b4bac1485ae3fad8ca00a14d"
+        },
+        {
+            "id": "ZW9A7WAW",
+            "title": "Chuyến Đi Của Năm (Đi Để Trở Về 2)",
+            "artists": "Soobin Hoàng Sơn",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2018/6/7/67f362548e6b582b6d12903384252af3.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/5/3/531a73c8d39095bfe95abc2bd5881aa7_1514540094.png",
+            "link": "//zmp3-mp3-s1.zadn.vn/637c919644d2ad8cf4c3/1624570559039363465?authen=exp=1520443144~acl=/637c919644d2ad8cf4c3/*~hmac=28bc8f77fa5029ecee47dc86e132faf9"
+        },
+        {
+            "id": "ZW77FUEA",
+            "title": "Đổi Thay",
+            "artists": "Hồ Quang Hiếu",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/01/12/6fc6ec1271be8b0a9572c9c61512f2f7_1075749994.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/c/5/c52f65959e8b0c2aafa7e5ef06f57f17_1471919089.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/062483671a23f37daa32/9207734067810133046?authen=exp=1520441167~acl=/062483671a23f37daa32/*~hmac=e4934face38b465189316136fbb2ac5d"
+        },
+        {
+            "id": "ZW8069UW",
+            "title": "Không Thể Yêu Ai Được Nữa",
+            "artists": "Gin Tuấn Kiệt",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2017/07/24/86d1f8e952c34291a92b4e5b638723b8_1076304066.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/2/2/22506e857bc12ab12736b34f18b4f577_1500517132.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/5c77f1bd28f9c1a798e8/1142754960564611348?authen=exp=1520444293~acl=/5c77f1bd28f9c1a798e8/*~hmac=21173777e3203dc907830348ed51dcfc"
+        },
+        {
+            "id": "ZW9BW6WB",
+            "title": "Ý Em Sao",
+            "artists": "Kay Trần, Lăng LD",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2018/b/8/b8cd032f4ccef6c9721aa3145cb738c3.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/f/3/f30a202d97fcb737a80ade314ebdb8e0_1519540242.png",
+            "link": "//zmp3-mp3-s1.zadn.vn/8deb7c71aa35436b1a24/5570450535854963538?authen=exp=1520444629~acl=/8deb7c71aa35436b1a24/*~hmac=2070d491fc8679ea28d33d0a1a0e8894"
+        },
+        {
+            "id": "ZW9A7W0I",
+            "title": "Cùng Anh (VRT Mix)",
+            "artists": "Ngọc Dolil, VRT",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2018/9/0/90b603e33b5501d137f4c4d37bc16725.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/a/d/ad67a7fbc0b8ad7eac660eb803cdeb21_1514533626.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/2ea6afb27bf692a8cbe7/8941937871845013125?authen=exp=1520441727~acl=/2ea6afb27bf692a8cbe7/*~hmac=57528eed20363b4dfbabbf0755dd7aeb"
+        },
+        {
+            "id": "ZW9A788Z",
+            "title": "Buồn Của Em (Buồn Của Anh Cover)",
+            "artists": "Trương Linh Đan",
+            "lyric": "https://zmp3-static.zadn.vn/lyrics/2018/0/d/0d523f52b672502c0b1780da37ff40e7.lrc",
+            "thumbnail": "https://zmp3-photo.zadn.vn/thumb/94_94/covers/c/e/ce36593e00aa2f001c8f08968e3bf637_1514728297.jpg",
+            "link": "//zmp3-mp3-s1.zadn.vn/54f683155651bf0fe640/6322504999759720834?authen=exp=1520432420~acl=/54f683155651bf0fe640/*~hmac=700a8c4beeeb1a37ae7c68f9ba429998"
         }
     ]
 }

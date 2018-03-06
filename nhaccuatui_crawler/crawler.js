@@ -1,8 +1,10 @@
 const nhaccuatui = require(`./nhaccuatui_module`)();
-const setup = require(`../Setup_links`);
+const setup = require(`../Setup`);
 
-nhaccuatui.get_url(setup.nhaccuatui.nhaccuatui_url, {
-    path: setup.nhaccuatui.file_path,
-    name_file: setup.nhaccuatui.file_name,
-    download: setup.nhaccuatui.download
-});
+const options = {
+    path: setup.setup_link.nhaccuatui.file_path,
+    name_file: setup.setup_link.nhaccuatui.file_name,
+    download: setup.setup_link.nhaccuatui.download
+};
+
+nhaccuatui.get_url(setup.setup_link.nhaccuatui.nhaccuatui_url, options, setup.setup_music_infos);

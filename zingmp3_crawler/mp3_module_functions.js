@@ -38,12 +38,7 @@ const mp3ModuleFunctions = ()=>{
                 console.log(err);
             }else{
                 let jbody = JSON.parse(body);
-                let music = {};
-                music.title = jbody.data.title;
-                music.artists = jbody.data.artists_names;
-                music.link = jbody.data.source[`128`];
-                music.id = jbody.data.id;
-                music.thumb = jbody.data.thumbnail;
+                const music = require(`./music_infos`)(jbody);
                 appVars.music_data.items.push(music);
             }
             if(appVars.music_data.items.length === appVars.item_length){
