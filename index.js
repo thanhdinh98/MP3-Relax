@@ -1,9 +1,8 @@
 require('dotenv').config();
 const mp3 = require('./ZingMp3');
 const {spawn} = require('child_process');
-const PATH = process.env.PATH || '';
 
-module.exports = async (id)=>{
+module.exports = async (id, path)=>{
     const url = `https://mp3.zing.vn/xhr/media/get-list?op=top100&start=0&length=100&id=${id}`;
 
     const songOptions = {
@@ -11,7 +10,8 @@ module.exports = async (id)=>{
     }
 
     const fileOptions = {
-        ext: 'play'
+        ext: 'play',
+        path
     }
 
     let fileName = 'data';
@@ -20,7 +20,7 @@ module.exports = async (id)=>{
             fileName = fileOptions.fileName;
         }
         await mp3(url, songOptions, fileOptions);
-        const ls = spawn('mpv', ['--no-video', `--playlist=${PATH}ZingMp3/${fileName}.txt`]);
+        const ls = spawn('mpv', ['--no-video', `--playlist=${path}/${fileName}.txt`]);
 
 
         ls.stdout.on('data', (data)=>{

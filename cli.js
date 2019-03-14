@@ -17,31 +17,31 @@ const VIET_NAM = {
         case 'vn':{
             switch(args[1]){
                 case 'nhac-tre':{
-                    PlayMusic(VIET_NAM.NHAC_TRE);
+                    PlayMusic(VIET_NAM.NHAC_TRE, args[2]);
                     break;
                 }
                 case 'nhac-tru-tinh':{
-                    PlayMusic(VIET_NAM.NHAC_TRU_TINH);
-                    break
+                    PlayMusic(VIET_NAM.NHAC_TRU_TINH, args[2]);
+                    break;
                 }
                 case 'nhac-que-huong':{
-                    PlayMusic(VIET_NAM.QUE_HUONG);
+                    PlayMusic(VIET_NAM.QUE_HUONG, args[2]);
                     break;
                 }
                 case 'nhac-cach-mang':{
-                    PlayMusic(VIET_NAM.CACH_MANG);
+                    PlayMusic(VIET_NAM.CACH_MANG, args[2]);
                     break;
                 }
                 case 'nhac-rap-hiphop':{
-                    PlayMusic(VIET_NAM.RAP_HIPHOP);
+                    PlayMusic(VIET_NAM.RAP_HIPHOP, args[2]);
                     break;
                 }
                 case 'nhac-rock':{
-                    PlayMusic(VIET_NAM.ROCK);
+                    PlayMusic(VIET_NAM.ROCK, args[2]);
                     break;
                 }
                 case 'nhac-dance':{
-                    PlayMusic(VIET_NAM.DANCE);
+                    PlayMusic(VIET_NAM.DANCE, args[2]);
                     break;
                 }
                 default: {

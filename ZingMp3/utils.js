@@ -1,5 +1,4 @@
 const fsPromise = require('fs').promises;
-const path = require('path');
 const _ = require('lodash');
 
 module.exports.getItems = (list)=>{
@@ -31,7 +30,7 @@ module.exports.writeToFile = async (songs, options)=>{
                 case 'json': {
                     fileName += '.json';
                     await fsPromise.writeFile(
-                        path.join(__dirname, fileName),
+                        options.path + fileName,
                         JSON.stringify(songs, null, 4)
                     );
                     break;
@@ -40,7 +39,7 @@ module.exports.writeToFile = async (songs, options)=>{
                 case 'txt':{
                     fileName += '.txt';
                     await fsPromise.writeFile(
-                        path.join(__dirname, fileName),
+                        options.path + fileName,
                         songs.toString()
                     );
                     break;
@@ -60,7 +59,7 @@ module.exports.writeToFile = async (songs, options)=>{
                     .replace(/\/\//g, 'http://');
 
                     await fsPromise.writeFile(
-                        path.join(__dirname, fileName),
+                        options.path + fileName,
                         onlyLinkStr
                     );
                     break;
@@ -69,7 +68,7 @@ module.exports.writeToFile = async (songs, options)=>{
 
         }else{
             await fsPromise.writeFile(
-                path.join(__dirname, 'data.json'),
+                options.path + fileName,
                 JSON.stringify(songs, null, 4)
             );
         }
