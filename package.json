@@ -1,6 +1,6 @@
 {
   "name": "mp3-relax",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Crawl music's informations from mp3.zing.vn",
   "main": "app.js",
   "scripts": {},
@@ -11,8 +11,8 @@
   },
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^7.0.0",
     "lodash": "^4.17.11",
+    "minimist": "^1.2.0",
     "request": "^2.88.0",
     "request-promise": "^4.2.4"
   },

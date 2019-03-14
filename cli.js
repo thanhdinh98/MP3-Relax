@@ -1,6 +1,8 @@
 #!/usr/bin/env node
+
 const PlayMusic = require('./');
-const [,, ...args] = process.argv;
+const {version, index} = require('./cmd');
+const args = require('minimist')(process.argv.slice(2));
 
 const VIET_NAM = {
     NHAC_TRE: 'ZWZB969E',
@@ -12,49 +14,129 @@ const VIET_NAM = {
     DANCE: 'ZWZB96AW'
 };
 
+const AU_MY = {
+    NHAC_POP: 'ZWZB96AB',
+    NHAC_ROCK: 'ZWZB96AC',
+    RAP_HIPHOP: 'ZWZB96AD',
+    NHAC_COUNTRY: 'ZWZB96AE',
+    NHAC_ED: 'ZWZB96C7',
+    NHAC_RB: 'ZWZB96C8',
+    NHAC_AUDI: 'ZWZB96D8'
+};
+
+const CHAU_A = {
+    NHAC_HAN: 'ZWZB96DC',
+    NHAC_NHAT: 'ZWZB96DF',
+    NHAC_HOA: 'ZWZB96EI'
+};
+
+const HOA_TAU = {
+    NHAC_CLA: 'ZWZB96EW',
+    NHAC_PIA: 'ZWZB96EU',
+    NHAC_GUI: 'ZWZB96EZ',
+    NHAC_VIO: 'ZWZB96E6',
+    NHAC_CELL: 'ZWZB96E7',
+    NHAC_SAX: 'ZWZB96E8'
+};
+
 (()=>{
-    switch(args[0]){
-        case 'vn':{
-            switch(args[1]){
-                case 'nhac-tre':{
-                    PlayMusic(VIET_NAM.NHAC_TRE, args[2]);
-                    break;
+
+    let ID = '';
+    let path = '';
+
+    let cmd = args._[0] || 'help';
+
+    if(args.version || args.v){
+        cmd = 'version';
+    }
+
+    if(args.help || args.h){
+        cmd = 'help';
+    }
+
+    if(args.nhac && args.tl && args._[0]){
+        cmd = 'play';
+        path = args._[0];
+
+        switch(args.nhac){
+            case 'vn':
+                switch(args.tl){
+                    case 1: ID = VIET_NAM.NHAC_TRE;
+                        break;
+                    case 2: ID = VIET_NAM.NHAC_TRU_TINH;
+                        break;
+                    case 3: ID = VIET_NAM.QUE_HUONG;
+                        break;
+                    case 4: ID = VIET_NAM.CACH_MANG;
+                        break;
+                    case 5: ID = VIET_NAM.RAP_HIPHOP;
+                        break;
+                    case 6: ID = VIET_NAM.ROCK;
+                        break;
+                    case 7: ID = VIET_NAM.DANCE;
+                        break;
+                    default: console.log('Khong co option nay cho the loai');
                 }
-                case 'nhac-tru-tinh':{
-                    PlayMusic(VIET_NAM.NHAC_TRU_TINH, args[2]);
-                    break;
+                break;
+            case 'am':
+                switch(args.tl){
+                    case 1: ID = AU_MY.NHAC_POP;
+                        break;
+                    case 2: ID = AU_MY.NHAC_ROCK;
+                        break;
+                    case 3: ID = AU_MY.RAP_HIPHOP;
+                        break;
+                    case 4: ID = AU_MY.NHAC_COUNTRY;
+                        break;
+                    case 5: ID = AU_MY.NHAC_ED;
+                        break;
+                    case 6: ID = AU_MY.NHAC_RB;
+                        break;
+                    case 7: ID = AU_MY.NHAC_AUDI;
+                        break;
+                    default: console.log('Khong co option nay cho the loai');
                 }
-                case 'nhac-que-huong':{
-                    PlayMusic(VIET_NAM.QUE_HUONG, args[2]);
-                    break;
+                break;
+            case 'ca':
+                switch(args.tl){
+                    case 1: ID = CHAU_A.NHAC_HAN;
+                        break;
+                    case 2: ID = CHAU_A.NHAC_NHAT;
+                        break;
+                    case 3: ID = CHAU_A.NHAC_HOA;
+                        break;
+                    default: console.log('Khong co option nay cho the loai');
                 }
-                case 'nhac-cach-mang':{
-                    PlayMusic(VIET_NAM.CACH_MANG, args[2]);
-                    break;
+                break;
+            case 'ht':
+                switch(args.tl){
+                    case 1: ID = HOA_TAU.NHAC_CLA;
+                        break;
+                    case 2: ID = HOA_TAU.NHAC_PIA;
+                        break;
+                    case 3: ID = HOA_TAU.NHAC_GUI;
+                        break;
+                    case 4: ID = HOA_TAU.NHAC_VIO;
+                        break;
+                    case 5: ID = HOA_TAU.NHAC_CELL;
+                        break;
+                    case 6: ID = HOA_TAU.NHAC_SAX;
+                        break;
+                    default: console.log('Khong co option nay cho the loai');
                 }
-                case 'nhac-rap-hiphop':{
-                    PlayMusic(VIET_NAM.RAP_HIPHOP, args[2]);
-                    break;
-                }
-                case 'nhac-rock':{
-                    PlayMusic(VIET_NAM.ROCK, args[2]);
-                    break;
-                }
-                case 'nhac-dance':{
-                    PlayMusic(VIET_NAM.DANCE, args[2]);
-                    break;
-                }
-                default: {
-                    console.log('Cannot find song');
-                }
-            }
-            break;
+                break;
+            default: console.log('Khong co option nay cho nhac');
         }
-        case 'am':{
+    }
+
+    switch(cmd){
+        case 'help': index(args);
             break;
-        }
-        case 'ca':{
+        case 'version': version(args)
             break;
-        }
+        case 'play': PlayMusic(ID, path);
+            break;
+        default:
+            console.error(`Khong ton tai lenh "${cmd}"!`);
     }
 })();
