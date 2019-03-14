@@ -1,5 +1,5 @@
 {
-  "name": "relax-mp3",
+  "name": "mp3-relax",
   "version": "1.0.0",
   "description": "Crawl music's informations from mp3.zing.vn",
   "main": "app.js",
