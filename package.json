@@ -1,23 +1,25 @@
 {
-  "name": "Crawler",
+  "name": "MP3",
   "version": "1.0.0",
-  "description": "Crawl music's informations from mp3.zing.vn or nhaccuatui.com",
+  "description": "Crawl music's informations from mp3.zing.vn",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "mp3": "node ./zingmp3_crawler/crawler.js",
-    "nhaccuatui": "node ./nhaccuatui_crawler/crawler.js"
   },
   "author": {
-      "name": "Thanh Dinh",
-      "email": "dnthanh1298@gmail.com",
-      "facebook": "https://www.facebook.com/dinhnhatthanh98"
+    "name": "Thanh Dinh",
+    "email": "dnthanh1298@gmail.com",
+    "facebook": "https://www.facebook.com/dinhnhatthanh98"
   },
   "license": "ISC",
   "dependencies": {
+    "lodash": "^4.17.11",
     "opn": "^5.2.0",
     "request": "^2.83.0",
+    "request-promise": "^4.2.4",
     "xml-js": "^1.6.2"
+  },
+  "bin": {
+    "mp3": "./cli.js"
   },
   "devDependencies": {}
 }
