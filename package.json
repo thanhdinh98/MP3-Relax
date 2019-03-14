@@ -1,10 +1,9 @@
 {
-  "name": "MP3",
+  "name": "relax-mp3",
   "version": "1.0.0",
   "description": "Crawl music's informations from mp3.zing.vn",
   "main": "app.js",
-  "scripts": {
-  },
+  "scripts": {},
   "author": {
     "name": "Thanh Dinh",
     "email": "dnthanh1298@gmail.com",
@@ -12,6 +11,7 @@
   },
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^7.0.0",
     "lodash": "^4.17.11",
     "opn": "^5.2.0",
     "request": "^2.83.0",
