@@ -1,7 +1,7 @@
 {
   "name": "mp3-relax",
-  "version": "1.0.1",
-  "description": "Crawl music's informations from mp3.zing.vn",
+  "version": "1.0.0",
+  "description": "Crawl and display songs from mp3.zing.vn on terminal",
   "main": "app.js",
   "scripts": {},
   "author": {
@@ -9,15 +9,21 @@
     "email": "dnthanh1298@gmail.com",
     "facebook": "https://www.facebook.com/dinhnhatthanh98"
   },
-  "license": "ISC",
+  "homepage": "https://github.com/thanhdinh98/MP3-Relax#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thanhdinh98/MP3-Relax.git"
+  },
+  "license": "",
   "dependencies": {
     "lodash": "^4.17.11",
     "minimist": "^1.2.0",
+    "ora": "^3.2.0",
     "request": "^2.88.0",
     "request-promise": "^4.2.4"
   },
   "bin": {
-    "mp3": "./cli.js"
+    "mp3": "./bin/cli.js"
   },
   "devDependencies": {}
 }

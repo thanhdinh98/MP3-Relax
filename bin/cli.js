@@ -1,7 +1,7 @@
-#!/usr/bin/env node
+#!/usr/bin/env node 
 
-const PlayMusic = require('./');
-const {version, index} = require('./cmd');
+const PlayMusic = require('..');
+const {version, index} = require('../cmd');
 const args = require('minimist')(process.argv.slice(2));
 
 const VIET_NAM = {

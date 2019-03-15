@@ -2,7 +2,7 @@ const menu = {
     main: `
         Su dung: mp3 <nhac> <the-loai> <duong-dan>
 
-        Vi du: mp3 --nhac=vn --tl=nt /home/home/Desktop
+        Vi du: mp3 --nhac=vn --tl=1 /home/home/Desktop
 
         nhac ................. xac dinh nhac
         the-loai ............. xac dinh the loai
