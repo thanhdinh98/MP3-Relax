@@ -1,69 +1,79 @@
 const menu = {
     main: `
-        Su dung: mp3 <nhac> <the-loai> <duong-dan>
+        Sử dụng: mp3 <nhac> <the-loai> <duong-dan>
 
-        Vi du: mp3 --nhac=vn --tl=1 /home/home/Desktop
+        Ví dụ: mp3 --nhac=vn --tl=1 /home/home/Desktop
 
-        nhac ................. xac dinh nhac
-        the-loai ............. xac dinh the loai
-        duong-dan ............ xac dinh duong dan luu tru list nhac
+        nhac ................. xác định loại nhạc
+        the-loai ............. xác định thể loại của loại nhạc đã chọn
+        duong-dan ............ xác định đường dẫn để lưu trữ list nhạc
 
-        Xem chi tiet options <nhac>:     mp3 help nhac
+        Xem chi tiết options <nhac>:     mp3 help nhac
 
-        Xem chi tiet options <the-loai>: mp3 help <nhac>=<the-loai> 
-        Vi du: mp3 help --vn=tl
+        Xem chi tiết options <the-loai>: mp3 help <nhac>=tl
+        Ví dụ: mp3 help --vn=tl
     `,
 
     nhac:`
-        mp3 --nhac=<option> ...
+        Thể loại nhạc
 
-        vn : nhac viet nam
-        am : nhac au my
-        ca : nhac chau a
-        ht : nhac hoa tau
+        Sử dụng: mp3 --nhac=<option> ...
+
+        vn : nhạc việt nam
+        am : nhạc ây mỹ
+        ca : nhạc châu á
+        ht : nhạc hòa tấu
     `,
 
     theLoaiVn: `
-        mp3 --tl=<options> ...
+        Thể loại cho nhạc Việt Nam
 
-        1 : nhac tre
-        2 : nhac tru tinh
-        3 : nhac que huong
-        4 : nhac cach mang
-        5 : nhac rap / hip hop
-        6 : nhac rock
-        7 : nhac dance
+        Sử dụng: mp3 --tl=<options> ...
+
+        1 : nhạc trẻ
+        2 : nhạc trữ tình
+        3 : nhạc quê hương
+        4 : nhạc cách mạng
+        5 : nhạc rap / hip hop
+        6 : nhạc rock
+        7 : nhạc dance
     `,
 
     theLoaiAm:`
-        mp3 --tl=<options> ...
+        Thê loại cho nhạc Âu Mỹ
 
-        1 : nhac pop
-        2 : nhac rock
-        3 : nhac rap/hip hop
-        4 : nhac country
-        5 : nhac electronic/dance
-        6 : nhac R&B
-        7 : nhac audiophile
+        Sử dụng: mp3 --tl=<options> ...
+
+        1 : nhạc pop
+        2 : nhạc rock
+        3 : nhạc rap/hip hop
+        4 : nhạc country
+        5 : nhạc electronic/dance
+        6 : nhạc R&B
+        7 : nhạc audiophile
     `,
 
     theLoaiCa:`
-        mp3 --tl=<options> ...
+        Thể loại cho nhạc Châu Á
 
-        1 : nhac han
-        2 : nhac nhat ban
-        3 : nhac hoa ngu
+        Sử dụng: mp3 --tl=<options> ...
+
+        1 : nhạc hàn
+        2 : nhạc nhật bản
+        3 : nhạc hoa ngữ
     `,
 
     theLoaiHt:`
-        mp3 --tl=<options> ...
+        Thể loại cho nhạc Hòa Tấu
 
-        1 : nhac classical
-        2 : nhac piano
-        3 : nhac guitar
-        4 : nhac viollin
-        5 : nhac cello
-        6 : nhac saxophone
+        Sử dụng: mp3 --tl=<options> ...
+
+        1 : nhạc classical
+        2 : nhạc piano
+        3 : nhạc guitar
+        4 : nhạc viollin
+        5 : nhạc cello
+        6 : nhạc saxophone
     `,
 };
 

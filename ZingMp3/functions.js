@@ -47,10 +47,8 @@ module.exports.save = async (songs, songOptions, fileOptions)=>{
             }
     
             await writeToFile(songStore, fileOptions);
-            console.log('Success');
         }else{
             await writeToFile(songs, fileOptions);
-            console.log('Success');
         }
     }catch (err) { throw err; }
 }

@@ -1,4 +1,4 @@
-#!/usr/bin/env node 
+#!/usr/bin/env node
 
 const PlayMusic = require('..');
 const {version, index} = require('../cmd');
@@ -75,7 +75,7 @@ const HOA_TAU = {
                         break;
                     case 7: ID = VIET_NAM.DANCE;
                         break;
-                    default: console.log('Khong co option nay cho the loai');
+                    default: cmd = 'tl-error';
                 }
                 break;
             case 'am':
@@ -94,7 +94,7 @@ const HOA_TAU = {
                         break;
                     case 7: ID = AU_MY.NHAC_AUDI;
                         break;
-                    default: console.log('Khong co option nay cho the loai');
+                    default: cmd = 'tl-error';
                 }
                 break;
             case 'ca':
@@ -105,7 +105,7 @@ const HOA_TAU = {
                         break;
                     case 3: ID = CHAU_A.NHAC_HOA;
                         break;
-                    default: console.log('Khong co option nay cho the loai');
+                    default: cmd = 'tl-error';
                 }
                 break;
             case 'ht':
@@ -122,11 +122,13 @@ const HOA_TAU = {
                         break;
                     case 6: ID = HOA_TAU.NHAC_SAX;
                         break;
-                    default: console.log('Khong co option nay cho the loai');
+                    default:  cmd = 'tl-error';
                 }
                 break;
-            default: console.log('Khong co option nay cho nhac');
+            default: cmd = 'nhac-error';
         }
+    }else{
+        cmd = 'help';
     }
 
     switch(cmd){
@@ -136,7 +138,11 @@ const HOA_TAU = {
             break;
         case 'play': PlayMusic(ID, path);
             break;
+        case 'nhac-error': console.log('Không có option cho nhạc này!');
+            break;
+        case 'tl-error': console.log('Không có option cho thể loại nhạc này!');
+            break;
         default:
-            console.error(`Khong ton tai lenh "${cmd}"!`);
+            console.error(`Không tồn tại lệnh "${cmd}"!`);
     }
 })();
