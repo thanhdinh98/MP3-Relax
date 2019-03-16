@@ -6,7 +6,7 @@
 ## Intallation
 
 ```sh
-npm install -g mp3-relax
+sudo npm install -g mp3-relax
 ```
 **Required:** MPV.
 
