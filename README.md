@@ -3,6 +3,9 @@
 
 ![](./images/demo.gif)
 
+## For Mp3-Relax with controls
+[https://github.com/thanhdinh98/MP3-Relax/tree/MP3-Relax-2](https://github.com/thanhdinh98/MP3-Relax/tree/MP3-Relax-2)
+
 ## Intallation
 
 ```sh
