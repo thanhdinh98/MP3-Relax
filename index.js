@@ -1,10 +1,17 @@
 const mp3 = require('./ZingMp3');
 const ora = require('ora')();
 const readline = require('readline');
-// const {spawn} = require('child_process');
+const {fancyTimeFormat, log, clearScreen} = require('./utils');
 const mpv = require('./Node-MPV');
+
 const mpvPlayer = new mpv({
     'audio_only': true
+});
+
+const rl = readline.createInterface({
+    input: process.stdin,
+    output: process.stdout,
+    prompt: 'INPUT> '
 });
 
 module.exports = async (id, path)=>{
@@ -30,37 +37,56 @@ module.exports = async (id, path)=>{
         await mpvPlayer.start();
         await mpvPlayer.loadPlaylist(`${path}/${fileOptions.fileName}.txt`);
 
-        mpvPlayer.getMetadata().then((data) =>{
-            const log = {};
-            if(data.title) log.title = data.title;
-            if(data.artist) log.artists = data.artist;
-            if(data.album) log.album = data.album;
-
-            for(let key in log){
-                console.log(`${key}: ${log[key]}`);
-            }
-        });
-
-        mpvPlayer.on('timeposition', ()=>{
-            mpvPlayer.getTimePosition().then((data)=>{
-                readline.cursorTo(process.stdout, 0);
-                process.stdout.write(data.toString());
-            }); 
-        });
-
-        // const ls = spawn('mpv', ['--no-video', `--playlist=${path}/${fileOptions.fileName}.txt`]);
-
-        // ls.stdout.on('data', (data)=>{
-        //     process.stdout.write(data.toString());
-        // });
-
-        // ls.stderr.on('data', (data) => {
-        //     readline.moveCursor(process.stdout, 0, -1);
-        //     process.stdout.write(data.toString());
-        // });
-
     }catch(err) { 
         spinner.fail('Fetching failed!')
         throw err; 
     }
 };
+
+rl.on('line', (line)=>{
+    switch (line.trim()) {
+        case 'pause': mpvPlayer.pause();
+            break;
+
+        case 'resume': mpvPlayer.resume();
+            break;
+
+        case 'next': {
+            clearScreen();
+            mpvPlayer.next();
+            break;
+        }
+        
+        case 'prev': {
+            clearScreen();
+            mpvPlayer.prev();
+            break;
+        }
+        default:
+      }
+
+      readline.moveCursor(process.stdout, 0, -1);
+      rl.prompt();
+});
+
+rl.on('close', ()=>{
+    mpvPlayer.stop();
+    console.log('Have a nice day!');
+    process.exit(0);
+});
+
+// mpvPlayer.on('timeposition', ()=>{
+//     mpvPlayer.getTimeRemaining().then((data)=>{
+//         readline.cursorTo(process.stdout, 0);
+//         process.stdout.write(fancyTimeFormat(data));
+//     }); 
+// });
+
+mpvPlayer.on('started', async ()=>{
+    try{
+        const data = await mpvPlayer.getMetadata();
+        log(data);
+
+        rl.prompt();
+    }catch(err) {throw err;}
+});
