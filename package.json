@@ -1,6 +1,6 @@
 {
   "name": "mp3-relax",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Crawl and display songs from mp3.zing.vn on terminal",
   "main": "app.js",
   "scripts": {},
