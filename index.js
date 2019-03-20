@@ -70,7 +70,7 @@ rl.on('line', (line)=>{
 });
 
 rl.on('close', ()=>{
-    mpvPlayer.stop();
+    mpvPlayer.quit();
     console.log('Have a nice day!');
     process.exit(0);
 });

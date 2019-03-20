@@ -1,6 +1,5 @@
 #!/usr/bin/env node
 
-const PlayMusic = require('..');
 const {version, index} = require('../cmd');
 const args = require('minimist')(process.argv.slice(2));
 
@@ -136,7 +135,7 @@ const HOA_TAU = {
             break;
         case 'version': version(args)
             break;
-        case 'play': PlayMusic(ID, path);
+        case 'play': require('..')(ID, path);
             break;
         case 'nhac-error': console.log('Không có option cho nhạc này!');
             break;
