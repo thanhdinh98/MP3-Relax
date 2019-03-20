@@ -1,7 +1,7 @@
 const mp3 = require('./ZingMp3');
 const ora = require('ora')();
-const readline = require('readline');
 const {fancyTimeFormat, log, clearScreen} = require('./utils');
+const readline = require('readline');
 const mpv = require('./Node-MPV');
 
 const mpvPlayer = new mpv({
@@ -62,6 +62,7 @@ rl.on('line', (line)=>{
             mpvPlayer.prev();
             break;
         }
+
         default:
       }
 
@@ -75,14 +76,18 @@ rl.on('close', ()=>{
     process.exit(0);
 });
 
-// mpvPlayer.on('timeposition', ()=>{
-//     mpvPlayer.getTimeRemaining().then((data)=>{
-//         readline.cursorTo(process.stdout, 0);
+// mpvPlayer.on('timeposition', async ()=>{
+//     try{
+//         const data = await mpvPlayer.getTimeRemaining();
+        
+//         readline.cursorTo(process.stdout, 0, 0);
 //         process.stdout.write(fancyTimeFormat(data));
-//     }); 
+//     }catch(err) {throw err;}
 // });
 
 mpvPlayer.on('started', async ()=>{
+    clearScreen();
+    
     try{
         const data = await mpvPlayer.getMetadata();
         log(data);
