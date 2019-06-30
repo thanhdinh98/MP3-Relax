@@ -16,6 +16,7 @@
   },
   "license": "",
   "dependencies": {
+    "blessed": "^0.1.81",
     "lodash": "^4.17.11",
     "minimist": "^1.2.0",
     "ora": "^3.2.0",
@@ -25,5 +26,10 @@
   "bin": {
     "mp3": "./bin/cli.js"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "babel-eslint": "^10.0.2",
+    "eslint": "^5.3.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.18.0"
+  }
 }

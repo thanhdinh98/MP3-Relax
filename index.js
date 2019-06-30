@@ -1,97 +1,130 @@
+const _ = require('lodash');
 const mp3 = require('./ZingMp3');
-const ora = require('ora')();
-const {fancyTimeFormat, log, clearScreen} = require('./utils');
-const readline = require('readline');
-const mpv = require('./Node-MPV');
+const MPV = require('./Node-MPV');
+const { fancyTimeFormat, setContent, setInfoContent } = require('./utils');
+const {
+  screen, inputBox, statusBox, playbackBox,
+} = require('./gui');
 
-const mpvPlayer = new mpv({
-    'audio_only': true
+const mpvPlayer = new MPV({
+  audio_only: true,
 });
 
-const rl = readline.createInterface({
-    input: process.stdin,
-    output: process.stdout,
-    prompt: 'INPUT> '
-});
+const formatLog = (data) => {
+  if (_.isEmpty(data)) {
+    throw new Error('Data format is invaild!');
+  }
 
-module.exports = async (id, path)=>{
-    const url = `https://mp3.zing.vn/xhr/media/get-list?op=top100&start=0&length=100&id=${id}`;
-    let spinner= '';
-
-    const songOptions = {
-        link: true
+  const result = [];
+  for (const key in data) {
+    if (_.has(data, key)) {
+      result.push(`${key}: ${data[key]}`);
     }
-
-    const fileOptions = {
-        ext: 'play',
-        path,
-        fileName: 'data'
-    }
-
-    try{
-
-        spinner = ora.start('Fetching...');
-        await mp3(url, songOptions, fileOptions);
-        spinner.succeed('Success');
-
-        await mpvPlayer.start();
-        await mpvPlayer.loadPlaylist(`${path}/${fileOptions.fileName}.txt`);
-
-    }catch(err) { 
-        spinner.fail('Fetching failed!')
-        throw err; 
-    }
+  }
+  return result;
 };
 
-rl.on('line', (line)=>{
-    switch (line.trim()) {
-        case 'pause': mpvPlayer.pause();
-            break;
+const getPlayListMp3 = async (id, path) => {
+  try {
+    const songs = await mp3.getSongs(id, {
+      link: true,
+    });
+    return mp3.saveAsPlaylist(songs, {
+      path,
+      fileName: 'music',
+    });
+  } catch (err) {
+    throw err;
+  }
+};
 
-        case 'resume': mpvPlayer.resume();
-            break;
+module.exports = async (id, path) => {
+  screen.render();
 
-        case 'next': {
-            clearScreen();
-            mpvPlayer.next();
-            break;
-        }
-        
-        case 'prev': {
-            clearScreen();
-            mpvPlayer.prev();
-            break;
-        }
+  try {
+    setContent('Fetching data...', statusBox);
+    await getPlayListMp3(id, path);
+    setContent('', statusBox);
 
-        default:
-      }
+    await mpvPlayer.start();
+    setContent('Loading...', statusBox);
+    await mpvPlayer.loadPlaylist(`${path}/music.txt`);
+  } catch (err) {
+    throw err;
+  }
+};
 
-      readline.moveCursor(process.stdout, 0, -1);
-      rl.prompt();
+// mpvPlayer events
+
+mpvPlayer.on('started', async () => {
+  inputBox.focus();
+  setContent('', statusBox);
+
+  try {
+    const data = await mpvPlayer.getMetadata();
+    setInfoContent(formatLog(data));
+  } catch (err) {
+    throw err;
+  }
 });
 
-rl.on('close', ()=>{
+mpvPlayer.on('timeposition', async () => {
+  try {
+    const data = await mpvPlayer.getTimeRemaining();
+    setContent(fancyTimeFormat(data), playbackBox);
+  } catch (err) { throw err; }
+});
+
+// inputBox events
+
+inputBox.on('submit', (input) => {
+  setContent('', statusBox);
+
+  switch (input.trim()) {
+    case 'pause': {
+      mpvPlayer.pause();
+      setContent('Pause', statusBox);
+      break;
+    }
+    case 'resume': {
+      mpvPlayer.resume();
+      setContent('', statusBox);
+      break;
+    }
+    case 'next': {
+      mpvPlayer.next();
+      setContent('Loading...', statusBox);
+      break;
+    }
+    case 'prev': {
+      mpvPlayer.prev();
+      setContent('Loading...', statusBox);
+      break;
+    }
+    default:
+      setContent('Input is invaild!', statusBox);
+  }
+
+  inputBox.focus();
+  screen.render();
+});
+
+inputBox.key('enter', () => {
+  inputBox.submit();
+  inputBox.clearValue();
+  screen.render();
+});
+
+// screen events
+
+screen.key('C-c', () => {
+  if (!_.isUndefined(mpvPlayer)) {
     mpvPlayer.quit();
-    console.log('Have a nice day!');
-    process.exit(0);
+  }
+  console.log('Have a nice day!');
+  process.exit(0);
 });
 
-// mpvPlayer.on('timeposition', async ()=>{
-//     try{
-//         const data = await mpvPlayer.getTimeRemaining();
-        
-//         readline.cursorTo(process.stdout, 0, 0);
-//         process.stdout.write(fancyTimeFormat(data));
-//     }catch(err) {throw err;}
-// });
-
-mpvPlayer.on('started', async ()=>{
-    clearScreen();
-    
-    try{
-        const data = await mpvPlayer.getMetadata();
-        log(data);
-
-        rl.prompt();
-    }catch(err) {throw err;}
+screen.key('s', () => {
+  inputBox.focus();
 });

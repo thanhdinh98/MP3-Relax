@@ -1,5 +1,5 @@
 const menu = {
-    main: `
+  main: `
         Sử dụng: mp3 <nhac> <the-loai> <duong-dan>
 
         Ví dụ: mp3 --nhac=vn --tl=1 /home/home/Desktop
@@ -14,7 +14,7 @@ const menu = {
         Ví dụ: mp3 help --vn=tl
     `,
 
-    nhac:`
+  nhac: `
         Thể loại nhạc
 
         Sử dụng: mp3 --nhac=<option> ...
@@ -25,7 +25,7 @@ const menu = {
         ht : nhạc hòa tấu
     `,
 
-    theLoaiVn: `
+  theLoaiVn: `
         Thể loại cho nhạc Việt Nam
 
         Sử dụng: mp3 --tl=<options> ...
@@ -39,7 +39,7 @@ const menu = {
         7 : nhạc dance
     `,
 
-    theLoaiAm:`
+  theLoaiAm: `
         Thê loại cho nhạc Âu Mỹ
 
         Sử dụng: mp3 --tl=<options> ...
@@ -53,7 +53,7 @@ const menu = {
         7 : nhạc audiophile
     `,
 
-    theLoaiCa:`
+  theLoaiCa: `
         Thể loại cho nhạc Châu Á
 
         Sử dụng: mp3 --tl=<options> ...
@@ -63,7 +63,7 @@ const menu = {
         3 : nhạc hoa ngữ
     `,
 
-    theLoaiHt:`
+  theLoaiHt: `
         Thể loại cho nhạc Hòa Tấu
 
         Sử dụng: mp3 --tl=<options> ...
@@ -77,13 +77,13 @@ const menu = {
     `,
 };
 
-module.exports = (args)=>{
-    let subCmd = '';
-    if(args._[1] === 'nhac') subCmd = 'nhac';
-    if(args.vn) subCmd = 'theLoaiVn';
-    if(args.am) subCmd = 'theLoaiAm';
-    if(args.ca) subCmd = 'theLoaiCa';
-    if(args.ht) subCmd = 'theLoaiHt';
+module.exports = (args) => {
+  let subCmd = '';
+  if (args._[1] === 'nhac') subCmd = 'nhac';
+  if (args.vn) subCmd = 'theLoaiVn';
+  if (args.am) subCmd = 'theLoaiAm';
+  if (args.ca) subCmd = 'theLoaiCa';
+  if (args.ht) subCmd = 'theLoaiHt';
 
-    console.log(menu[subCmd] || menu.main);
-}
+  console.log(menu[subCmd] || menu.main);
+};

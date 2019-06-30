@@ -1,38 +1,40 @@
-module.exports.fancyTimeFormat = (time)=>{
+const {
+  screen, infoBox,
+} = require('./gui');
 
-    if(typeof(time) !== 'number') time = Number(time.toString());
+/* eslint-disable no-bitwise */
+const fancyTimeFormat = (time) => {
+  if (typeof (time) !== 'number') time = Number(time.toString());
 
-    let hrs = ~~(time / 3600);
-    let mins = ~~((time % 3600) / 60);
-    let secs = ~~time % 60;
+  const hrs = ~~(time / 3600);
+  const mins = ~~((time % 3600) / 60);
+  const secs = ~~time % 60;
 
-    let ret = "";
+  let ret = '';
 
-    if (hrs > 0) {
-        ret += "" + hrs + ":" + (mins < 10 ? "0" : "");
-    }
+  if (hrs > 0) {
+    ret += `${hrs}:${mins < 10 ? '0' : ''}`;
+  }
 
-    ret += "" + mins + ":" + (secs < 10 ? "0" : "");
-    ret += "" + secs;
-    return ret;
-}
+  ret += `${mins}:${secs < 10 ? '0' : ''}`;
+  ret += `${secs}`;
+  return ret;
+};
 
-module.exports.log = (data)=>{
+const setContent = (content, component) => {
+  component.setContent('');
+  component.setContent(content);
+  screen.render();
+};
 
-    const log = {};
-    if(data.title) log.title = data.title;
-    if(data.artist) log.artists = data.artist;
-    if(data.album) log.album = data.album;
-    if(data.gerne) log.gerne = data.gerne;
-    if(data.composer) log.composer = data.composer;
-    if(data.album_artist) log.album_artist = data.album_artist;
-    if(data.date) log.date = data.date;
+const setInfoContent = (content) => {
+  infoBox.setContent('');
+  infoBox.insertTop(content);
+  screen.render();
+};
 
-    for(let key in log){
-        console.log(`${key}: ${log[key]}`);
-    }
-}
-
-module.exports.clearScreen = ()=>{
-    return process.stdout.write('\033c');
-}
+module.exports = {
+  fancyTimeFormat,
+  setContent,
+  setInfoContent,
+};
